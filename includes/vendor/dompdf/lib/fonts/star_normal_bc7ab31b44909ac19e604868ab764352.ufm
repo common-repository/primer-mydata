@@ -1,0 +1,25 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+FontName icomoon
+FontSubfamily Regular
+UniqueID FontForge 2.0 : icomoon : 5-4-2013
+FullName icomoon
+Version Version 1.0
+PostScriptName icomoon
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 0
+UnderlinePosition 0
+FontHeightOffset 90
+Ascender 938
+Descender -63
+FontBBox 0 -63 1053 938
+StartCharMetrics 6
+U 83 ; WX 1051 ; N S ; G 3
+U 115 ; WX 1051 ; N s ; G 4
+U 61440 ; WX 0 ; N uniF000 ; G 5
+EndCharMetrics
+EndFontMetrics

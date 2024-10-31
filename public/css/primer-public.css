@@ -1,0 +1,12 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.woocommerce .form-row.form-row-wide.form-row-flex .woocommerce-input-wrapper {
+    display: flex;
+}
+.woocommerce .form-row.form-row-wide.form-row-flex .woocommerce-input-wrapper label:nth-of-type(1) {
+    margin-right: 30px;
+}
+

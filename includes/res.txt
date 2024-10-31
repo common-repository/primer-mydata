@@ -1,0 +1,24 @@
+cron started 
+orders Array
+(
+    [0] => 15966
+    [1] => 15965
+    [2] => 15962
+    [3] => 15936
+    [4] => 15813
+    [5] => 15808
+    [6] => 15807
+    [7] => 15776
+    [8] => 15774
+    [9] => 15747
+)
+
+issued_order 15936 not_issued
+primer_send_success_log 
+primer_send_fail_log on
+log_ids  Array
+(
+    [0] => 15998
+)
+
+

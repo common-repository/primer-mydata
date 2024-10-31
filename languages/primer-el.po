@@ -1,0 +1,3320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Primer receipts\n"
+"POT-Creation-Date: 2024-06-28 11:35+0300\n"
+"PO-Revision-Date: 2024-06-28 11:36+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: primer.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-primer-admin.php:120
+msgid "Valid file formats"
+msgstr "Έγκυρες μορφές αρχείου"
+
+#: admin/class-primer-admin.php:167
+msgid "Statuses"
+msgstr "Καταστάσεις"
+
+#: admin/class-primer-admin.php:168
+msgid "Status"
+msgstr "Κατάσταση"
+
+#. translators: %s is a placeholder for the localized word "Status" (singular)
+#. translators: %s is a placeholder for the localized word "Receipt" (singular)
+#: admin/class-primer-admin.php:187 admin/class-primer-admin.php:313
+#: admin/class-primer-admin.php:315 admin/class-primer-admin.php:395
+#: admin/class-primer-admin.php:397 admin/class-primer-admin.php:477
+#: admin/class-primer-admin.php:479
+#, php-format
+msgid "Add New %s"
+msgstr "Προσθέστε νέο %s"
+
+#. translators: %s is a placeholder for the localized word "Statuses" (plural)
+#: admin/class-primer-admin.php:189
+#, php-format
+msgid "Add or remove %s"
+msgstr "Add or remove %s"
+
+#. translators: %s is a placeholder for the localized word "Statuses" (plural)
+#: admin/class-primer-admin.php:192
+#, php-format
+msgid "Choose from most used %s"
+msgstr "Choose from most used %s"
+
+#. translators: %s is a placeholder for the localized word "Status" (singular)
+#. translators: %s is a placeholder for the localized word "Receipt" (singular)
+#: admin/class-primer-admin.php:194 admin/class-primer-admin.php:318
+#: admin/class-primer-admin.php:400 admin/class-primer-admin.php:482
+#, php-format
+msgid "Edit %s"
+msgstr "Edit %s"
+
+#. translators: %s is a placeholder for the localized word "Status" (singular)
+#: admin/class-primer-admin.php:198
+#, php-format
+msgid "New %s Name"
+msgstr "New %s Name"
+
+#. translators: %s is a placeholder for the localized word "Statuses" (plural)
+#. translators: %s is a placeholder for the localized word "Receipts" (plural)
+#: admin/class-primer-admin.php:200 admin/class-primer-admin.php:325
+#: admin/class-primer-admin.php:407 admin/class-primer-admin.php:489
+#, php-format
+msgid "No %s Found"
+msgstr "No %s Found"
+
+#. translators: %s is a placeholder for the localized word "Status" (singular)
+#: admin/class-primer-admin.php:202
+#, php-format
+msgid "Parent %s"
+msgstr "Parent %s"
+
+#. translators: %s is a placeholder for the localized word "Status" (singular)
+#. translators: %s is a placeholder for the localized word "Receipt" (singular)
+#: admin/class-primer-admin.php:204 admin/class-primer-admin.php:329
+#: admin/class-primer-admin.php:411 admin/class-primer-admin.php:493
+#, php-format
+msgid "Parent %s:"
+msgstr "Parent %s:"
+
+#. translators: %s is a placeholder for the localized word "Statuses" (plural)
+#: admin/class-primer-admin.php:206
+#, php-format
+msgid "Popular %s"
+msgstr "Popular %s"
+
+#. translators: %s is a placeholder for the localized word "Statuses" (plural)
+#. translators: %s is a placeholder for the localized word "Receipts" (plural)
+#: admin/class-primer-admin.php:208 admin/class-primer-admin.php:331
+#: admin/class-primer-admin.php:413 admin/class-primer-admin.php:495
+#, php-format
+msgid "Search %s"
+msgstr "Αναζήτηση %s"
+
+#. translators: %s is a placeholder for the localized word "Statuses" (plural)
+#: admin/class-primer-admin.php:210
+#, php-format
+msgid "Separate %s with commas"
+msgstr "Separate %s with commas"
+
+#. translators: %s is a placeholder for the localized word "Status" (singular)
+#: admin/class-primer-admin.php:213
+#, php-format
+msgid "Update %s"
+msgstr "Update %s"
+
+#. translators: %s is a placeholder for the localized word "Status" (singular)
+#. translators: %s is a placeholder for the localized word "Receipt" (singular)
+#: admin/class-primer-admin.php:215 admin/class-primer-admin.php:334
+#: admin/class-primer-admin.php:416 admin/class-primer-admin.php:498
+#, php-format
+msgid "View %s"
+msgstr "View %s"
+
+#. translators: %s is a placeholder for the localized word "Receipt" (singular)
+#: admin/class-primer-admin.php:323 admin/class-primer-admin.php:405
+#: admin/class-primer-admin.php:487
+#, php-format
+msgid "New %s"
+msgstr "New %s"
+
+#. translators: %s is a placeholder for the localized word "Receipts" (plural)
+#: admin/class-primer-admin.php:327 admin/class-primer-admin.php:409
+#: admin/class-primer-admin.php:491
+#, php-format
+msgid "No %s Found in Trash"
+msgstr "No %s Found in Trash"
+
+#: admin/class-primer-admin.php:583 admin/class-primer-admin.php:586
+#, php-format
+msgid "%s is a required field."
+msgstr "%s is a required field."
+
+#: admin/class-primer-admin.php:647 admin/class-primer-admin.php:1109
+#: admin/includes/primer-admin-options.php:1874
+#: admin/includes/primer-admin-receipt-table.php:31
+#: includes/class-primer-cron.php:1870
+msgid "Invoice Type"
+msgstr "Τύπος τιμολογίου"
+
+#: admin/class-primer-admin.php:673
+#: admin/includes/primer-admin-receipt-table.php:15
+#: includes/template-tags/primer-tags-receipt.php:10
+msgid "Receipt"
+msgstr "Απόδειξη"
+
+#: admin/class-primer-admin.php:674
+msgid "Invoice"
+msgstr "Τιμολόγιο"
+
+#: admin/class-primer-admin.php:901
+msgid ""
+"Editing of this order has been disabled because it has been converted to "
+"invoice"
+msgstr ""
+"Η επεξεργασία σε αυτή την παραγγελία έχει απενεργοποιηθεί, διότι έχει "
+"μετατραπεί σε τιμολόγιο"
+
+#: admin/class-primer-admin.php:910
+msgid ""
+"Editing of this order has been disabled because data have been send to AADE, "
+"but there was an error in the conversion. Please check conversion log and "
+"fix conversion error to continue"
+msgstr ""
+"Η επεξεργασία αυτής της παραγγελίας έχει απενεργοποιηθεί επειδή τα δεδομένα "
+"έχουν σταλεί στην ΑΑΔΕ , αλλά παρουσιάστηκε σφάλμα στη μετατροπή. Ελέγξτε το "
+"αρχείο καταγραφής μετατροπών και διορθώστε το σφάλμα μετατροπής για να "
+"συνεχίσετε"
+
+#: admin/class-primer-admin.php:1043
+msgid "Settings saved successfully."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν επιτυχώς."
+
+#: admin/class-primer-admin.php:1054
+msgid ""
+"Your WordPress version may not be compatible with the Primer Receipts "
+"plugin. If you are having issues with the plugin, we recommend making a "
+"backup of your site and upgrading to the latest version of WordPress."
+msgstr ""
+"Η έκδοση του WordPress ίσως να μην είναι συμβατή με το plugin Primer "
+"Receipts. Αν έχετε ζητήματα με το plugin, προτείνουμε να κάνετε ένα backup  "
+"της ιστοσελίδας σας και αναβάθμιση στην τελευταία έκδοση του WordPress."
+
+#: admin/class-primer-admin.php:1059
+msgid ""
+"Your PHP version may not be compatible with the Primer Receipts plugin. We "
+"recommend contacting your server administrator and getting them to upgrade "
+"to a newer version of PHP."
+msgstr ""
+"Η έκδοση της PHP ίσως να μην είναι συμβατή με το plugin Primer Receipts. "
+"Προτείνουμε να επικοινωνήσετε με τον διαχειριστή του διακομιστή σας και να "
+"γίνει αναβάθμιση στην νεότερη έκδοση της PHP."
+
+#: admin/class-primer-admin.php:1064
+msgid ""
+"You do not have the cURL extension installed on your server. This extension "
+"is required for some tasks. Please contact your server administrator to have "
+"them install this on your server."
+msgstr ""
+"Δεν έχετε εγκατεστημένη στο διακομιστή σας την επέκταση cURL. Αυτή η "
+"επέκταση απαιτείται για κάποιες εργασίες. Παρακαλώ επικοινωνήστε με τον "
+"διαχειριστή του διακομιστή σας για να γίνει η εγκατάσταση."
+
+#: admin/class-primer-admin.php:1076 admin/includes/primer-admin-options.php:85
+#: admin/includes/primer-admin-options.php:108
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: admin/class-primer-admin.php:1097
+msgid "90 seconds"
+msgstr "90 δευτερόλεπτα"
+
+#: admin/class-primer-admin.php:1098
+#: admin/includes/primer-admin-options.php:1373
+msgid "5 minutes"
+msgstr "5 λεπτά"
+
+#: admin/class-primer-admin.php:1099
+#: admin/includes/primer-admin-options.php:1374
+msgid "10 minutes"
+msgstr "10 λεπτά"
+
+#: admin/class-primer-admin.php:1100
+#: admin/includes/primer-admin-options.php:1375
+msgid "30 minutes"
+msgstr "30 λεπτά"
+
+#: admin/class-primer-admin.php:1110
+msgid "VAT"
+msgstr "ΑΦΜ"
+
+#: admin/class-primer-admin.php:1111
+msgid "Profession"
+msgstr "Επάγγελμα"
+
+#: admin/class-primer-admin.php:1112
+msgid "Company Name"
+msgstr "Όνομα Επιχείρησης"
+
+#: admin/class-primer-admin.php:1113
+msgid "Mobile Phone Number"
+msgstr "Αριθμός κινητού τηλεφώνου"
+
+#: admin/class-primer-admin.php:1114
+msgid "DOY"
+msgstr "ΔΟΥ"
+
+#: admin/class-primer-admin.php:1442
+msgid "Fail - "
+msgstr "Αποτυχία - "
+
+#: admin/class-primer-admin.php:1442
+msgid ""
+"Time is not correct with Greek time zone. AADE will not accept your invoices."
+msgstr ""
+"Η ώρα δεν είναι σωστή με την ζώνη ώρας της Ελλάδας. Η ΑΑΔΕ δεν θα αποδεχτεί "
+"τα παραστατικά σας."
+
+#: admin/class-primer-admin.php:1445
+#: admin/includes/primer-admin-options.php:4174
+#: admin/includes/primer-admin-options.php:4186
+#: admin/includes/primer-admin-options.php:4195
+msgid "Pass"
+msgstr "Επιτυχία"
+
+#: admin/includes/my_data_json.php:104
+#: admin/includes/primer-admin-options.php:621
+msgid "EMPTY"
+msgstr "EMPTY"
+
+#: admin/includes/my_data_json.php:132 admin/includes/my_data_json.php:134
+msgid "Product Kind is not configured.PLease try re-activating your product."
+msgstr "Product Kind is not configured.PLease try re-activating your product."
+
+#: admin/includes/my_data_json.php:439 admin/includes/my_data_json.php:440
+#: admin/includes/my_data_json.php:441
+msgid "Only euro is accepted."
+msgstr "Μόνο το ευρώ γίνεται αποδεκτό."
+
+#: admin/includes/my_data_json.php:489 admin/includes/my_data_json.php:490
+#: admin/includes/my_data_json.php:491
+msgid ""
+"AADE does not accept zero value orders please enable \"Accept zero total "
+"value orders\" option in general settings if you want to issue this order."
+msgstr ""
+"Η ΑΑΔΕ δεν δέχεται παραγγελίες μηδενικής αξίας, ενεργοποιήστε την επιλογή "
+"\"Αποδοχή παραγγελιών μηδενικής συνολικής αξίας\" στις γενικές ρυθμίσεις εάν "
+"θέλετε να εκδώσετε αυτήν την παραγγελία."
+
+#: admin/includes/my_data_json.php:577
+msgid "Standard rate"
+msgstr "Βασικός Συντελεστής"
+
+#: admin/includes/my_data_json.php:590 admin/includes/my_data_json.php:591
+#: admin/includes/my_data_json.php:593
+msgid ""
+"The order has 0% VAT included.The edition that you currently have does not "
+"support zero vat orders.Please choose another order to convert or go to www."
+"primer.gr/shop and choose another edition."
+msgstr ""
+"Η παραγγελία περιλαμβάνει 0% ΦΠΑ. Η έκδοση που έχετε αυτήν τη στιγμή δεν "
+"υποστηρίζει παραγγελίες μηδενικού ΦΠΑ. Επιλέξτε άλλη παραγγελία για "
+"μετατροπή ή μεταβείτε στο www.primer.gr/shop και επιλέξτε άλλη έκδοση."
+
+#: admin/includes/my_data_json.php:603 admin/includes/my_data_json.php:604
+#: admin/includes/my_data_json.php:607
+msgid ""
+"The order has 0% VAT included.Please go to MyData settings and configure a "
+"vat exemption category for the specific tax class that the product is "
+"attached to it."
+msgstr ""
+"Η παραγγελία περιλαμβάνει 0% ΦΠΑ. Μεταβείτε στις ρυθμίσεις MyData και "
+"διαμορφώστε μια κατηγορία απαλλαγής από το ΦΠΑ για τη συγκεκριμένη κατηγορία "
+"φόρου στην οποία συνδέεται το προϊόν."
+
+#: admin/includes/my_data_json.php:903 admin/includes/my_data_json.php:904
+#: admin/includes/my_data_json.php:906
+#, fuzzy
+#| msgid ""
+#| "Order could not be converted because product value sum is not equal with "
+#| "total value. A payment fee was used and your edition does not support "
+#| "payment fees. Please create a new order without payment fee or go to www."
+#| "primer.gr to select another MyData plugin version."
+msgid ""
+"order could not be converted because product value sum is not equal with "
+"total value. A payment fee was used and your edition does not support "
+"payment fees. Please create a new order without payment fee or go to www."
+"primer.gr to select another MyData plugin version."
+msgstr ""
+" Δεν ήταν δυνατή η μετατροπή της παραγγελίας επειδή το άθροισμα της αξίας "
+"του προϊόντος δεν είναι ίσο με τη συνολική αξία. Χρησιμοποιήθηκε χρέωση "
+"πληρωμής και η έκδοσή σας δεν υποστηρίζει χρεώσεις πληρωμής. Δημιουργήστε "
+"μια νέα παραγγελία χωρίς χρέωση πληρωμής ή μεταβείτε στο www.primer.gr για "
+"να επιλέξετε μια άλλη έκδοση πρόσθετου MyData."
+
+#: admin/includes/my_data_json.php:1380 admin/includes/my_data_json.php:1382
+#: admin/includes/primer-admin-options.php:3544
+#: admin/includes/primer-admin-options.php:3546
+#: admin/includes/primer-admin-table.php:743
+#: admin/includes/primer-admin-table.php:745
+#: admin/includes/primer-admin-table.php:746 includes/class-primer-cron.php:228
+#: includes/class-primer-cron.php:230 includes/class-primer-cron.php:231
+#: includes/class-primer-cron.php:875 includes/class-primer-cron.php:877
+#: includes/class-primer-cron.php:1379 includes/class-primer-cron.php:1381
+msgid ""
+"Php option allow_url_fopen is disabled! Please communicate with your hosting "
+"provider in order to activate it."
+msgstr ""
+"Η επιλογή Php allow_url_fopen είναι απενεργοποιημένη! Επικοινωνήστε με τον "
+"πάροχο hosting για να το ενεργοποιήσετε."
+
+#: admin/includes/my_data_json.php:1610
+#: admin/includes/primer-admin-options.php:3407
+#: admin/includes/primer-admin-options.php:3914
+#: admin/includes/primer-admin-options.php:5494
+#: admin/includes/primer-admin-table.php:1105
+#: includes/class-primer-cron.php:589 includes/class-primer-cron.php:1152
+#: includes/class-primer-cron.php:1701 includes/class-primer-cron.php:2913
+msgid "Test email subject"
+msgstr "Δοκιμαστικό θέμα email"
+
+#: admin/includes/my_data_json.php:1632
+#: admin/includes/primer-admin-options.php:3425
+#: admin/includes/primer-admin-options.php:3931
+#: admin/includes/primer-admin-options.php:5500
+#: admin/includes/primer-admin-table.php:1122
+#: includes/class-primer-cron.php:608 includes/class-primer-cron.php:1170
+#: includes/class-primer-cron.php:1720
+msgid "Test email message"
+msgstr "Δοκιμαστικό μήνυμα email"
+
+#: admin/includes/my_data_json.php:1680 admin/includes/my_data_json.php:1697
+#: admin/includes/primer-admin-options.php:3972
+#: admin/includes/primer-admin-options.php:3975
+#: admin/includes/primer-admin-options.php:3992
+#: admin/includes/primer-admin-table.php:1162
+#: admin/includes/primer-admin-table.php:1165
+#: admin/includes/primer-admin-table.php:1183
+#: includes/class-primer-cron.php:655 includes/class-primer-cron.php:679
+#: includes/class-primer-cron.php:1207 includes/class-primer-cron.php:1224
+#: includes/class-primer-cron.php:1759 includes/class-primer-cron.php:1762
+#: includes/class-primer-cron.php:1778
+msgid "Configure your SMTP credentials"
+msgstr "Διαμορφώστε τα διαπιστευτήρια SMTP"
+
+#: admin/includes/my_data_json.php:1699
+#: admin/includes/primer-admin-options.php:3994
+#: admin/includes/primer-admin-table.php:1185
+#: includes/class-primer-cron.php:681 includes/class-primer-cron.php:1226
+#: includes/class-primer-cron.php:1780
+msgid "Send email automatically on order conversion disabled"
+msgstr "Αποστολή email αυτόματα σε κάθε μετατροπή  παραγγελίας"
+
+#: admin/includes/my_data_json.php:1712
+#: admin/includes/primer-admin-options.php:4026
+#: admin/includes/primer-admin-table.php:1211
+#: includes/class-primer-cron.php:706 includes/class-primer-cron.php:1235
+#: includes/class-primer-cron.php:1786
+msgid "Orders converted"
+msgstr "Επιτυχής έκδοση παραστατικού"
+
+#: admin/includes/my_data_json.php:1717 admin/includes/my_data_json.php:1729
+msgid "Something went wrong. Please try again!"
+msgstr "Κάτι πήγε στραβά. Παρακαλώ δοκιμάστε ξανά!"
+
+#. Plugin Name of the plugin/theme
+#: admin/includes/primer-admin-options.php:64
+msgid "Primer MyData"
+msgstr "Primer MyData"
+
+#: admin/includes/primer-admin-options.php:84
+#: admin/includes/primer-admin-options.php:94
+#: admin/includes/primer-admin-options.php:101
+msgid "Primer Receipts"
+msgstr "Primer Receipts"
+
+#: admin/includes/primer-admin-options.php:87
+#: admin/includes/primer-admin-options.php:95
+#: admin/includes/primer-admin-options.php:109
+#: admin/includes/primer-admin-options.php:2012
+msgid "License and General Settings"
+msgstr "Άδεια χρήσης και Γενικές Ρυθμίσεις"
+
+#: admin/includes/primer-admin-options.php:102
+#: admin/includes/primer-admin-receipt-log-automation-table.php:289
+#: admin/includes/primer-admin-receipt-log-table.php:293
+#: admin/includes/primer-admin-receipt-table.php:814
+#: admin/includes/primer-admin-table.php:24
+#: admin/includes/primer-admin-table.php:597
+msgid "Orders"
+msgstr "Παραγγελίες"
+
+#: admin/includes/primer-admin-options.php:104
+#: admin/includes/primer-admin-receipt-table.php:16
+#: includes/template-tags/primer-tags-receipt.php:18
+msgid "Receipts"
+msgstr "Παραστατικά"
+
+#: admin/includes/primer-admin-options.php:106
+#: admin/includes/primer-admin-receipt-log-automation-table.php:16
+#: admin/includes/primer-admin-receipt-log-table.php:16
+msgid "Receipts Logs"
+msgstr "Αρχεία καταγραφής παραστατικών"
+
+#: admin/includes/primer-admin-options.php:107
+#: includes/template-tags/primer-tags-receipt.php:51
+msgid "Automation Logs"
+msgstr "Αρχεία καταγραφής αυτοματοποίησης"
+
+#: admin/includes/primer-admin-options.php:116
+#: admin/includes/primer-admin-options.php:1693
+#: admin/includes/primer-admin-options.php:1694
+msgid "Export"
+msgstr "Εξαγωγή"
+
+#: admin/includes/primer-admin-options.php:230
+#: admin/includes/primer-admin-options.php:247
+#: admin/includes/primer-admin-options.php:263
+#: admin/includes/primer-admin-options.php:347
+#: admin/includes/primer-admin-options.php:348
+msgid "General Settings"
+msgstr "Γενικές Ρυθμίσεις"
+
+#: admin/includes/primer-admin-options.php:238
+#: admin/includes/primer-admin-options.php:255
+#: admin/includes/primer-admin-options.php:450
+#: admin/includes/primer-admin-options.php:467
+#: admin/includes/primer-admin-options.php:1099
+#: admin/includes/primer-admin-options.php:1116
+msgid "Activate this plugin with proper credentials"
+msgstr ""
+"Χρειάζεστε μια ενεργή συνδρομή MyData, για να ξεκινήσετε να εκδίδετε "
+"παραστατικά"
+
+#: admin/includes/primer-admin-options.php:239
+#: admin/includes/primer-admin-options.php:256
+#: admin/includes/primer-admin-options.php:451
+#: admin/includes/primer-admin-options.php:468
+#: admin/includes/primer-admin-options.php:1100
+#: admin/includes/primer-admin-options.php:1117
+msgid "For more information you can go to www.primer.gr."
+msgstr ""
+"Mπορείτε να πλοηγηθείτε στην ιστοσελίδα <a href=\"https://www.primer."
+"gr\">www.primer.gr</a> για να αποκτήσετε μια δωρεάν συνδρομή MyData."
+
+#: admin/includes/primer-admin-options.php:272
+msgid "Enable receipt/invoice option in checkout"
+msgstr "Ενεργοποίηση επιλογής απόδειξη/τιμολόγιο στην σελίδα πληρωμής"
+
+#: admin/includes/primer-admin-options.php:273
+msgid "Enables the receipt/invoice option on checkout"
+msgstr "Επιτρέπει την επιλογή απόδειξη/τιμολόγιο στην σελίδα πληρωμής"
+
+#: admin/includes/primer-admin-options.php:278
+msgid "Hide"
+msgstr "Απόκρυψη"
+
+#: admin/includes/primer-admin-options.php:279
+msgid "Show"
+msgstr "Εμφάνιση"
+
+#: admin/includes/primer-admin-options.php:286
+msgid "Create/update new user on checkout"
+msgstr "Δημιουργία/ενημέρωση νέου χρήστη στη σελίδα πληρωμής"
+
+#: admin/includes/primer-admin-options.php:287
+msgid ""
+"Enables automatic creation of new user, or updating existing one in checkout"
+msgstr ""
+"Επιτρέπει την αυτόματη δημιουργία ενός νέου χρήστη ή την ενημέρωση ενός ήδη "
+"υπάρχοντος στην σελίδα πληρωμής"
+
+#: admin/includes/primer-admin-options.php:291
+#: admin/includes/primer-admin-options.php:302
+#: admin/includes/primer-admin-options.php:314
+#: admin/includes/primer-admin-options.php:336
+#: admin/includes/primer-admin-options.php:953
+#: admin/includes/primer-admin-options.php:986
+#: admin/includes/primer-admin-options.php:998
+#: admin/includes/primer-admin-options.php:1010
+msgid "Off"
+msgstr "Απενεργοποίηση"
+
+#: admin/includes/primer-admin-options.php:292
+#: admin/includes/primer-admin-options.php:303
+#: admin/includes/primer-admin-options.php:315
+#: admin/includes/primer-admin-options.php:337
+#: admin/includes/primer-admin-options.php:954
+#: admin/includes/primer-admin-options.php:987
+#: admin/includes/primer-admin-options.php:999
+#: admin/includes/primer-admin-options.php:1011
+msgid "On"
+msgstr "Ενεργοποίηση"
+
+#: admin/includes/primer-admin-options.php:297
+msgid "Enable Transmission Failure"
+msgstr "Enable Transmission Failure"
+
+#: admin/includes/primer-admin-options.php:298
+msgid ""
+"Enables transmission failure procedure.If our servers or AADE is down the "
+"plugin prints an invoice without qr code,mark,uid,auth code and it turns on "
+"an automatic process which tries every 30 minutes to send the failed "
+"invoice. After the successful sending  the invoice is filled with the "
+"necessary information."
+msgstr ""
+"Ενεργοποιεί τη διαδικασία έκδοσης παραστατικών με αποτυχία σύνδεσης. Εάν οι "
+"διακομιστές μας ή AADE είναι κάτω από το plugin εκτυπώνει ένα τιμολόγιο "
+"χωρίς κωδικό qr, mark, uid, auth code και ενεργοποιεί μια αυτόματη "
+"διαδικασία που προσπαθεί κάθε 30 λεπτά να στείλει το αποτυχημένο τιμολόγιο. "
+"Μετά την επιτυχή αποστολή του τιμολογίου συμπληρώνεται με τις απαραίτητες "
+"πληροφορίες."
+
+#: admin/includes/primer-admin-options.php:309
+msgid "Accept zero total value orders"
+msgstr "Αποδοχή παραγγελιών μηδενικής συνολικής αξίας"
+
+#: admin/includes/primer-admin-options.php:310
+msgid ""
+"If enabled the plugin will convert the orders that have 0 euros total value "
+"but the value send to AADE will be 0.02 euros(0.01 net value + 0.01 vat "
+"value), because AADE does not accept 0 values."
+msgstr ""
+"Εάν ενεργοποιηθεί το plugin θα εκδώσει τις παραγγελίες που έχουν συνολική "
+"αξία 0 ευρώ αλλά η τιμή αποστολής στην ΑΑΔΕ θα είναι 0,02 ευρώ (καθαρή αξία "
+"+ 0,01 αξία ΦΠΑ), επειδή η ΑΑΔΕ δεν δέχεται μηδενικές τιμές."
+
+#: admin/includes/primer-admin-options.php:321
+msgid "Number of products on each page of the receipt"
+msgstr "Αριθμός προϊόντων σε κάθε σελίδα της απόδειξης"
+
+#: admin/includes/primer-admin-options.php:322
+msgid ""
+"From here you can select how many products there will be on each page of the "
+"receipt-invoice"
+msgstr ""
+"Από εδώ μπορείτε να επιλέξετε πόσα προϊόντα θα υπάρχουν σε κάθε σελίδα της "
+"απόδειξης-τιμολόγιο"
+
+#: admin/includes/primer-admin-options.php:331
+msgid "Enable display of product attributes and variations in the invoice "
+msgstr ""
+"Ενεργοποίηση εμφάνισης ιδιοτήτων και παραλλαγών των προϊόντων στο "
+"παραστατικό."
+
+#: admin/includes/primer-admin-options.php:332
+msgid ""
+"From here you can choose if you want the attributes and variations of your "
+"products to appear on the invoice "
+msgstr ""
+"Από εδώ μπορείτε να επιλέξετε αν στο παραστατικό, θα εμφανίζεται μόνο το "
+"όνομα του προϊόντος ή και διάφορες πιθανές παραλλαγές και ιδιότητες"
+
+#: admin/includes/primer-admin-options.php:442
+#: admin/includes/primer-admin-options.php:459
+#: admin/includes/primer-admin-options.php:475
+msgid "MyData Invoices"
+msgstr "Τιμολόγια MyData"
+
+#: admin/includes/primer-admin-options.php:483
+msgid "MyData 0% VAT correlation"
+msgstr "MyData Συσχέτιση 0% ΦΠΑ"
+
+#: admin/includes/primer-admin-options.php:547
+msgid "No Tax classes found."
+msgstr "Δεν βρέθηκαν κατηγοριές φόρου με 0% ΦΠΑ."
+
+#: admin/includes/primer-admin-options.php:548
+msgid ""
+"No Tax classes found with 0% Tax rate.Please go to Woocommerce settings and "
+"configure a 0% tax rate in a tax class."
+msgstr ""
+"Δεν βρέθηκαν φορολογικές κατηγορίες με φορολογικό συντελεστή 0%. Μεταβείτε "
+"στις ρυθμίσεις Woocommerce και ρυθμίστε τις παραμέτρους ενός συντελεστή 0% "
+"tax σε μια φορολογική κατηγορία."
+
+#: admin/includes/primer-admin-options.php:557
+msgid "Enable/disable send"
+msgstr "Ενεργοποίηση/απενεργοποίηση αποστολής"
+
+#: admin/includes/primer-admin-options.php:558
+msgid ""
+"Enable/disable send 'Product MyData Category Code' & 'Product "
+"Characterization Code'"
+msgstr "Ενεργοποίηση/απενεργοποίηση χαρακτηρισμών προϊόντος MyData"
+
+#: admin/includes/primer-admin-options.php:565
+msgid "MyData Package:"
+msgstr "Πακέτο MyData:"
+
+#: admin/includes/primer-admin-options.php:577
+msgid "Remaining MyData Invoices for this month:"
+msgstr "Υπολειπόμενα MyData τιμολόγια για αυτόν τον μήνα:"
+
+#: admin/includes/primer-admin-options.php:586
+#: admin/includes/primer-admin-options.php:2107
+msgid "Get Remaining"
+msgstr "Εμφάνιση υπολειπόμενων"
+
+#: admin/includes/primer-admin-options.php:590
+msgid "Contract ends on:"
+msgstr "Λήξη σύμβασης:"
+
+#: admin/includes/primer-admin-options.php:602
+msgid "Invoice numbering"
+msgstr "Αρίθμηση τιμολογίου"
+
+#: admin/includes/primer-admin-options.php:609
+msgid "Type"
+msgstr "Τύπος"
+
+#: admin/includes/primer-admin-options.php:611
+msgid "Last number"
+msgstr "Τελευταίος αριθμός"
+
+#: admin/includes/primer-admin-options.php:649
+msgid "Test API"
+msgstr "Δοκιμαστικό API"
+
+#: admin/includes/primer-admin-options.php:655
+msgid "Production API"
+msgstr "API Παραγωγής"
+
+#: admin/includes/primer-admin-options.php:661
+msgid "Greek Receipt"
+msgstr "Ελληνική απόδειξη"
+
+#: admin/includes/primer-admin-options.php:670
+#: admin/includes/primer-admin-options.php:690
+#: admin/includes/primer-admin-options.php:708
+#: admin/includes/primer-admin-options.php:726
+#: admin/includes/primer-admin-options.php:744
+#: admin/includes/primer-admin-options.php:763
+#: admin/includes/primer-admin-options.php:782
+#: admin/includes/primer-admin-options.php:800
+#: admin/includes/primer-admin-options.php:818
+#: admin/includes/primer-admin-options.php:836
+#: admin/includes/primer-admin-options.php:854
+#: admin/includes/primer-admin-options.php:873
+msgid "Series:"
+msgstr "Series:"
+
+#: admin/includes/primer-admin-options.php:680
+msgid "Greek Invoice"
+msgstr "Ελληνικό τιμολόγιο"
+
+#: admin/includes/primer-admin-options.php:699
+msgid "Invoice within E.U."
+msgstr "Τιμολόγια εντός Ε.Ε."
+
+#: admin/includes/primer-admin-options.php:717
+msgid "Invoice outside E.U."
+msgstr "Τιμολόγια εκτός Ε.Ε."
+
+#: admin/includes/primer-admin-options.php:735
+#: admin/includes/primer-admin-receipt-table.php:39
+#: admin/includes/primer-admin-receipt-table.php:122
+#: admin/includes/primer-admin-table.php:69
+msgid "Credit Receipt"
+msgstr "Πιστωτικό λιανικής"
+
+#: admin/includes/primer-admin-options.php:754
+#: admin/includes/primer-admin-receipt-table.php:125
+msgid "Credit Invoice"
+msgstr "Πιστωτικό τιμολόγιο"
+
+#: admin/includes/primer-admin-options.php:773
+msgid "Greek Receipt(Test API)"
+msgstr "Ελληνική απόδειξη (Δοκιμαστικό API)"
+
+#: admin/includes/primer-admin-options.php:791
+msgid "Greek Invoice(Test API)"
+msgstr "Ελληνικό τιμολόγιο (Δοκιμαστικό API)"
+
+#: admin/includes/primer-admin-options.php:809
+msgid "Invoice within E.U.(Test API)"
+msgstr "Τιμολόγια εντός Ε.Ε. (Δοκιμαστικό API)"
+
+#: admin/includes/primer-admin-options.php:827
+msgid "Invoice outside E.U.(Test API)"
+msgstr "Τιμολόγια εκτός Ε.Ε. (Δοκιμαστικό API)"
+
+#: admin/includes/primer-admin-options.php:845
+msgid "Credit Receipt(Test API)"
+msgstr "Πιστωτικό λιανικής (Δοκιμαστικό API)"
+
+#: admin/includes/primer-admin-options.php:864
+msgid "Credit Invoice(Test API)"
+msgstr "Πιστωτικό τιμολόγιο (Δοκιμαστικό API)"
+
+#: admin/includes/primer-admin-options.php:882
+msgid "MyData API:"
+msgstr "MyData API:"
+
+#: admin/includes/primer-admin-options.php:890
+msgid "Resend last HTML document"
+msgstr "Επανάληψη αποστολής τελευταίου HTML αρχείου"
+
+#: admin/includes/primer-admin-options.php:895
+msgid "Resend"
+msgstr "Επανάληψη αποστολής"
+
+#: admin/includes/primer-admin-options.php:899
+msgid "Add Company Logo"
+msgstr "Προσθήκη λογότυπου εταιρείας"
+
+#: admin/includes/primer-admin-options.php:900
+msgid ""
+"Jpg,Png files only. File must be 350x100px and up to 75 kb. Up to 3 logo "
+"changes (after pressing save) are supported."
+msgstr ""
+"Μόνο αρχεία Jpg, Png. Το αρχείο πρέπει να είναι 350x100px και μέχρι 75kb. "
+"Υποστηρίζονται μέχρι 3 αλλαγές λογοτύπου (εφόσον έχει πατηθεί το Αποθήκευση)."
+
+#: admin/includes/primer-admin-options.php:917
+msgid "Upload File"
+msgstr "Ανέβασμα αρχείου"
+
+#: admin/includes/primer-admin-options.php:924
+#: admin/includes/primer-admin-options.php:925
+msgid "Use logo"
+msgstr "Ενεργοποίηση λογοτύπου"
+
+#: admin/includes/primer-admin-options.php:932
+msgid "Count of upload logo"
+msgstr "Count of upload logo"
+
+#: admin/includes/primer-admin-options.php:940
+msgid "Image API ID"
+msgstr "Image API ID"
+
+#: admin/includes/primer-admin-options.php:948
+msgid "Use Primer Software SMTP"
+msgstr "Χρηση Primer Software SMTP"
+
+#: admin/includes/primer-admin-options.php:949
+msgid ""
+"Allow Primer Software to send email with the invoice/receipt attached, using "
+"Primer’s SMTP"
+msgstr ""
+"Επιτρέψτε στο Primer Software να στέλνει email με συνημμένο το τιμολόγιο/"
+"απόδειξη, χρησιμοποιώντας το SMTP της Primer"
+
+#: admin/includes/primer-admin-options.php:959
+msgid "Enable woocommerce rounding calculation fix"
+msgstr "Ενεργοποίηση επιδιόρθωσης υπολογισμού στρογγυλοποίησης woocommerce"
+
+#: admin/includes/primer-admin-options.php:960
+msgid ""
+"Enable woocommerce rounding calculation fix. CAUTION! With this setting "
+"enabled your orders will be automatically change status to pending for a "
+"small amount of time in order to recalculate the totls of the order."
+msgstr ""
+"Ενεργοποίηση επιδιόρθωσης υπολογισμού στρογγυλοποίησης woocommerce. ΠΡΟΣΟΧΗ! "
+"Με αυτή τη ρύθμιση ενεργοποιημένη, οι παραγγελίες σας θα αλλάξουν αυτόματα "
+"την κατάσταση σε εκκρεμότητα για ένα μικρό χρονικό διάστημα, προκειμένου να "
+"υπολογιστούν εκ νέου τα ποσά της παραγγελίας."
+
+#: admin/includes/primer-admin-options.php:965
+msgid "Add Notes in the invoice comments"
+msgstr "Προσθέστε Σημειώσεις στα σχόλια του τιμολογίου"
+
+#: admin/includes/primer-admin-options.php:981
+msgid "Zero value added tax for invoices outside European union"
+msgstr "Μηδενικό Φ.Π.Α για τιμολόγια εκτός Ευρωπαϊκής Ένωσης"
+
+#: admin/includes/primer-admin-options.php:993
+msgid "Enable VIES check in checkout"
+msgstr ""
+"Ενεργοποίηση του συστήματος ανταλλαγής πληροφοριών σχετικά με τον Φ.Π.Α. "
+"(VIES) στην σελίδα πληρωμής"
+
+#: admin/includes/primer-admin-options.php:1005
+msgid "Enable VAT Validation in checkout"
+msgstr ""
+"Ενεργοποίηση αυτόματης συμπλήρωσης στοιχείων εταιρείας στην σελίδα πληρωμής"
+
+#: admin/includes/primer-admin-options.php:1018
+#: admin/includes/primer-admin-options.php:2041
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+#: admin/includes/primer-admin-options.php:1030
+#: admin/includes/primer-admin-options.php:2048
+msgid "Password"
+msgstr "Κωδικός"
+
+#: admin/includes/primer-admin-options.php:1052
+msgid "Select Greek invoice template"
+msgstr "Επιλέξτε πρότυπο ελληνικού τιμολογίου"
+
+#: admin/includes/primer-admin-options.php:1056
+msgid "Greek invoice template"
+msgstr "Πρότυπο ελληνικού τιμολογίου"
+
+#: admin/includes/primer-admin-options.php:1058
+#: admin/includes/primer-admin-options.php:1069
+msgid "Preview template"
+msgstr "Προεπισκόπηση προτύπου"
+
+#: admin/includes/primer-admin-options.php:1063
+msgid "Select English invoice template"
+msgstr "Επιλέξτε πρότυπο αγγλικού τιμολογίου"
+
+#: admin/includes/primer-admin-options.php:1067
+msgid "English invoice template"
+msgstr "Πρότυπο αγγλικού τιμολογίου"
+
+#: admin/includes/primer-admin-options.php:1078
+#: admin/includes/primer-admin-options.php:1079
+msgid "MyData Settings"
+msgstr "Ρυθμίσεις MyData"
+
+#: admin/includes/primer-admin-options.php:1091
+#: admin/includes/primer-admin-options.php:1108
+#: admin/includes/primer-admin-options.php:1124
+msgid "Email SMTP settings"
+msgstr "Ρυθμίσεις Email SMTP"
+
+#: admin/includes/primer-admin-options.php:1131
+msgid "Smtp Type"
+msgstr "Τύπος SMTP"
+
+#: admin/includes/primer-admin-options.php:1132
+msgid "Choose your smtp configuration"
+msgstr "Eπιλέξτε τη διαμόρφωση smtp"
+
+#: admin/includes/primer-admin-options.php:1136
+msgid "Wordpress Default SMTP"
+msgstr "Wordpress Default SMTP"
+
+#: admin/includes/primer-admin-options.php:1137
+msgid "Other SMTP"
+msgstr "Άλλο SMTP"
+
+#: admin/includes/primer-admin-options.php:1143
+msgid "Send email from account"
+msgstr "Αποστολή email από τον λογαριασμό"
+
+#: admin/includes/primer-admin-options.php:1155
+msgid "Email username"
+msgstr "Όνομα χρήστη Email"
+
+#: admin/includes/primer-admin-options.php:1167
+msgid "Email password"
+msgstr "Κωδικός Email"
+
+#: admin/includes/primer-admin-options.php:1180
+msgid "Type of Encryption"
+msgstr "Είδος κρυπτογράφησης"
+
+#: admin/includes/primer-admin-options.php:1181
+msgid "For most servers SSL/TLS is the recommended option"
+msgstr ""
+"Για τους περισσότερους διακομιστές SSL/TLS είναι η προτεινόμενη επιλογή"
+
+#: admin/includes/primer-admin-options.php:1185
+#: includes/vendor/cmb2/includes/CMB2_Field.php:1476
+#: includes/vendor/cmb2/includes/CMB2_Field.php:1480
+msgid "None"
+msgstr "Κανένα"
+
+#: admin/includes/primer-admin-options.php:1186
+msgid " SSL/TLS"
+msgstr " SSL/TLS"
+
+#: admin/includes/primer-admin-options.php:1187
+msgid " STARTTLS"
+msgstr " STARTTLS"
+
+#: admin/includes/primer-admin-options.php:1197
+msgid "SMTP Authentication"
+msgstr "Επαλήθευση SMTP"
+
+#: admin/includes/primer-admin-options.php:1198
+msgid "This options should always be checked 'Yes'"
+msgstr "Σε αυτή την επιλογή πρέπει πάντα να είναι τσεκαρισμένο το \"Ναι\""
+
+#: admin/includes/primer-admin-options.php:1202
+#: admin/includes/primer-admin-options.php:1298
+msgid "Yes"
+msgstr "Ναι"
+
+#: admin/includes/primer-admin-options.php:1203
+#: admin/includes/primer-admin-options.php:1299
+msgid "No"
+msgstr "Όχι"
+
+#: admin/includes/primer-admin-options.php:1213
+msgid "SMTP server"
+msgstr "Διακομιστής SMTP"
+
+#: admin/includes/primer-admin-options.php:1225
+msgid "Port"
+msgstr "Θύρα"
+
+#: admin/includes/primer-admin-options.php:1234
+msgid "Test Email settings"
+msgstr "Αποστολή δοκιμαστικού Email"
+
+#: admin/includes/primer-admin-options.php:1238
+msgid "Email settings"
+msgstr "Ρυθμίσεις Email"
+
+#: admin/includes/primer-admin-options.php:1239
+msgid "Settings for the emails send to your clients"
+msgstr "Ρυθμίσεις για τα email που αποστέλλονται στους πελάτες"
+
+#: admin/includes/primer-admin-options.php:1246
+msgid "From:(name)"
+msgstr "Από:(Όνομα)"
+
+#: admin/includes/primer-admin-options.php:1258
+msgid "Email subject"
+msgstr "Το θέμα του email"
+
+#: admin/includes/primer-admin-options.php:1268
+msgid "Email body"
+msgstr "Το σώμα του email"
+
+#: admin/includes/primer-admin-options.php:1286
+msgid "Click on a wildcard to insert it into the email body."
+msgstr "Κάντε κλικ σε ένα wildcard για να το εισαγάγετε στο email."
+
+#: admin/includes/primer-admin-options.php:1292
+msgid "Send email automatically on order conversion"
+msgstr "Αποστολή email αυτόματα σε κάθε έκδοση παραστατικού"
+
+#: admin/includes/primer-admin-options.php:1308
+#: admin/includes/primer-admin-options.php:1309
+msgid "Email Settings"
+msgstr "Ρυθμίσεις Email"
+
+#: admin/includes/primer-admin-options.php:1320
+#: admin/includes/primer-admin-options.php:1321
+msgid "Activate Automation"
+msgstr "Ενεργοποίηση αυτοματοποίησης"
+
+#: admin/includes/primer-admin-options.php:1349
+msgid "Condition {#}"
+msgstr "Συνθήκη {#}"
+
+#: admin/includes/primer-admin-options.php:1350
+msgid "+Add condition"
+msgstr "Προσθήκη συνθήκης"
+
+#: admin/includes/primer-admin-options.php:1351
+msgid "Delete condition"
+msgstr "Διαγραφή συνθήκης"
+
+#: admin/includes/primer-admin-options.php:1356
+msgid "Issue receipt if order state is: "
+msgstr "Έκδοση παραστατικού αν η κατάσταση της παραγγελίας είναι: "
+
+#: admin/includes/primer-admin-options.php:1362
+msgid "Send email with invoice to client"
+msgstr "Αποστολή email στον πελάτη"
+
+#: admin/includes/primer-admin-options.php:1369
+msgid "Run Automation every "
+msgstr "Εκτέλεση αυτοματοποίησης κάθε "
+
+#: admin/includes/primer-admin-options.php:1376
+msgid "60 minutes"
+msgstr "60 λεπτά"
+
+#: admin/includes/primer-admin-options.php:1377
+msgid "Once per day"
+msgstr "Μια φορά την μέρα"
+
+#: admin/includes/primer-admin-options.php:1383
+msgid "In order for automation to work, your server needs to support cron. "
+msgstr ""
+"Για να λειτουργήσει η αυτοματοποίηση, ο διακομιστής σας πρέπει να "
+"υποστηρίζει cron. "
+
+#: admin/includes/primer-admin-options.php:1386
+msgid "Limit Orders for each automation "
+msgstr ""
+
+#: admin/includes/primer-admin-options.php:1390
+msgid "20 orders"
+msgstr "20 Παραγγελίες"
+
+#: admin/includes/primer-admin-options.php:1391
+msgid "30 orders"
+msgstr "30 Παραγγελίες"
+
+#: admin/includes/primer-admin-options.php:1392
+msgid "50 orders"
+msgstr "50 Παραγγελίες"
+
+#: admin/includes/primer-admin-options.php:1393
+msgid "70 orders"
+msgstr "70 Παραγγελίες"
+
+#: admin/includes/primer-admin-options.php:1394
+msgid "100 orders"
+msgstr "100 Παραγγελίες"
+
+#: admin/includes/primer-admin-options.php:1395
+msgid "200 orders"
+msgstr "200 Παραγγελίες"
+
+#: admin/includes/primer-admin-options.php:1396
+msgid "Unlimited orders"
+msgstr "Απεριόριστες παραγγελίες"
+
+#: admin/includes/primer-admin-options.php:1403
+msgid ""
+"Warning, the bigger the limit, the heavier is the load for your server. If "
+"you get frequent timeouts, try using a lower limit."
+msgstr ""
+"Προειδοποίηση, όσο μεγαλύτερο είναι το όριο, τόσο μεγαλύτερο είναι το φορτίο "
+"για τον διακομιστή σας. Εάν λαμβάνετε συχνά σφάλματα χρονικού ορίου, "
+"δοκιμάστε να χρησιμοποιήσετε ένα χαμηλότερο όριο."
+
+#: admin/includes/primer-admin-options.php:1406
+msgid "Run Automation on orders issued after: "
+msgstr "Εκτέλεση αυτοματοποίησης για παραγγελίες που έχουν εκδοθεί μετά: "
+
+#: admin/includes/primer-admin-options.php:1410
+msgid ""
+"Warning, the older the date, the heavier is the load for your server. If you "
+"get frequent timeouts, try using a more recent date."
+msgstr ""
+"Προσοχή! Όσο πιο παλιά είναι η ημερομηνία, τόσο μεγαλύτερο το φορτίο για τον "
+"διακομιστή σας. Αν έχετε συχνά timeouts, δοκιμάστε να χρησιμοποιήσετε μια "
+"πιο πρόσφατη ημερομηνία."
+
+#: admin/includes/primer-admin-options.php:1418
+msgid "Send email to admin"
+msgstr "Αποστολή email στον διαχειριστή"
+
+#: admin/includes/primer-admin-options.php:1429
+msgid "Admin email"
+msgstr "Email διαχειριστή"
+
+#: admin/includes/primer-admin-options.php:1430
+msgid "(use comma (,) without spaces for multiple emails)"
+msgstr "(χρησιμοποιείστε κόμμα (,) χωρίς κενά για πολλαπλά email)"
+
+#: admin/includes/primer-admin-options.php:1440
+msgid "Send successful receipts log"
+msgstr "Αποστολή επιτυχημένων αρχείων καταγραφής παραστατικών"
+
+#: admin/includes/primer-admin-options.php:1451
+msgid "Send failed receipts log"
+msgstr "Αποστολή αποτυχημένων αρχείων καταγραφής παραστατικών"
+
+#: admin/includes/primer-admin-options.php:1462
+msgid "Email Subject: "
+msgstr "Θέμα του email: "
+
+#: admin/includes/primer-admin-options.php:1477
+#: admin/includes/primer-admin-receipt-table.php:196
+#: admin/includes/primer-admin-table.php:115 views/admin_order_list.php:42
+#: views/admin_receipt_list.php:10 views/get_receipt_list.php:47
+msgid "Log"
+msgstr "Log"
+
+#: admin/includes/primer-admin-options.php:1485
+msgid "Run Now"
+msgstr "Εκτέλεση τώρα"
+
+#: admin/includes/primer-admin-options.php:1492
+msgid "Automation Settings not activated"
+msgstr "Ρυθμίσεις Αυτοματοποίησης"
+
+#: admin/includes/primer-admin-options.php:1493
+msgid ""
+"Your version of the plugin does not support automation. Automation gives you "
+"the ability to issue receipts automatically according to conditions you "
+"enter. For more information and to upgrade your version you can go to www."
+"primer.gr."
+msgstr ""
+"Η έκδοση του plugin σας δεν υποστηρίζει αυτοματοποίηση. Η αυτοματοποίηση σας "
+"δίνει την δυνατότητα να εκδίδεται αποδείξεις σύμφωνα με τις συνθήκες που "
+"εισάγετε. Για περισσότερες πληροφορίες και για αναβάθμιση της έκδοσης "
+"παρακαλώ πλοηγηθείτε στην ιστοσελίδα <a href=\"https://www.primer.gr\">www."
+"primer.gr</a> για να προχωρήσετε στην αγορά ενός νέου πακέτου MyData."
+
+#: admin/includes/primer-admin-options.php:1504
+#: admin/includes/primer-admin-options.php:1505
+msgid "Automation Settings"
+msgstr "Ρυθμίσεις Αυτοματοποίησης"
+
+#: admin/includes/primer-admin-options.php:1700
+msgid "Export Fields"
+msgstr "Εξαγωγή"
+
+#: admin/includes/primer-admin-options.php:1706
+#: admin/includes/primer-admin-options.php:1748
+#: admin/includes/primer-admin-options.php:1790
+#: admin/includes/primer-admin-options.php:1826
+msgid "Field Name"
+msgstr "Όνομα πεδίου"
+
+#: admin/includes/primer-admin-options.php:1718
+msgid "Client name"
+msgstr "Όνομα Πελάτη"
+
+#: admin/includes/primer-admin-options.php:1724
+#: includes/class-primer-cron.php:1855
+msgid "Client Company"
+msgstr "Εταιρεία Πελάτη"
+
+#: admin/includes/primer-admin-options.php:1730
+#: includes/class-primer-cron.php:1854
+msgid "Client VAT"
+msgstr "ΑΦΜ Πελάτη"
+
+#: admin/includes/primer-admin-options.php:1736
+#: includes/class-primer-cron.php:1856
+msgid "Client Activity"
+msgstr "Δραστηριότητα"
+
+#: admin/includes/primer-admin-options.php:1742
+#: includes/class-primer-cron.php:1857
+msgid "Client Address"
+msgstr "Διεύθυνση Πελάτη"
+
+#: admin/includes/primer-admin-options.php:1760
+#: includes/class-primer-cron.php:1858
+msgid "Client Phone number"
+msgstr "Αριθμός κινητού τηλεφώνου"
+
+#: admin/includes/primer-admin-options.php:1766
+#: includes/class-primer-cron.php:1859
+msgid "Client Email"
+msgstr "Email Πελάτη"
+
+#: admin/includes/primer-admin-options.php:1772
+#: includes/class-primer-cron.php:1860
+msgid "Client Webpage"
+msgstr "Ιστοσελίδα"
+
+#: admin/includes/primer-admin-options.php:1778
+#: includes/class-primer-cron.php:1861
+msgid "Product name"
+msgstr "Προϊόντα"
+
+#: admin/includes/primer-admin-options.php:1784
+#: includes/class-primer-cron.php:1862
+msgid "Product Quantity"
+msgstr "Ποσότητα Προϊόντος"
+
+#: admin/includes/primer-admin-options.php:1802
+#: includes/class-primer-cron.php:1863
+msgid "VAT Amount per product"
+msgstr "Αξία Φ.Π.Α. προϊόντος"
+
+#: admin/includes/primer-admin-options.php:1808
+#: includes/class-primer-cron.php:1864
+msgid "Total Amount per product"
+msgstr "Τελική Αξία προϊόντος"
+
+#: admin/includes/primer-admin-options.php:1814
+#: includes/class-primer-cron.php:1865
+msgid "Net amount (without VAT) per product"
+msgstr "Καθαρή Αξία προϊόντος"
+
+#: admin/includes/primer-admin-options.php:1820
+#: includes/class-primer-cron.php:1866
+msgid "Total Amount"
+msgstr "Τελική Αξία παραγγελίας"
+
+#: admin/includes/primer-admin-options.php:1838
+#: includes/class-primer-cron.php:1867
+msgid "Total (Sum) VAT Amount"
+msgstr "Αξία Φ.Π.Α. παραγγελίας"
+
+#: admin/includes/primer-admin-options.php:1844
+msgid "Total (Sum) VAT Amount per tax rate"
+msgstr "Συνολικό (Άθροισμα) Ποσό ΦΠΑ ανά φορολογικό συντελεστή"
+
+#: admin/includes/primer-admin-options.php:1850
+#: includes/class-primer-cron.php:1868
+msgid "Total (Sum) Net Amount"
+msgstr "Καθαρή Αξία παραγγελίας"
+
+#: admin/includes/primer-admin-options.php:1856
+#: includes/class-primer-cron.php:1851
+msgid "Invoice Number"
+msgstr "Αρίθμηση Παραστατικού"
+
+#: admin/includes/primer-admin-options.php:1862
+msgid "Series of the invoice"
+msgstr "Σειρά Παραστατικού"
+
+#: admin/includes/primer-admin-options.php:1868
+#: admin/includes/primer-admin-receipt-log-automation-table.php:32
+#: admin/includes/primer-admin-receipt-log-table.php:32
+#: includes/class-primer-cron.php:1869 includes/class-primer-cron.php:2778
+msgid "Invoice Date"
+msgstr "Ημερομηνία τιμολογίου"
+
+#: admin/includes/primer-admin-options.php:1882
+msgid "Export settings"
+msgstr "Ρυθμίσεις Εξαγωγής"
+
+#: admin/includes/primer-admin-options.php:1888
+msgid "Export Type"
+msgstr "Τύπος Εξαγωγής"
+
+#: admin/includes/primer-admin-options.php:1898
+#: admin/includes/primer-admin-options.php:1904
+#: admin/includes/primer-admin-options.php:1910
+#: admin/includes/primer-admin-options.php:1916
+#: admin/includes/primer-admin-options.php:1945
+#: admin/includes/primer-admin-options.php:1972
+#: admin/includes/primer-admin-options.php:1988
+msgid " "
+msgstr " "
+
+#: admin/includes/primer-admin-options.php:1899
+msgid "Leave blank row on new invoice/receipt"
+msgstr "Δημιουργία κενού ανάμεσα σε νέα παραγγελία"
+
+#: admin/includes/primer-admin-options.php:1905
+msgid "First excel row is Column Name"
+msgstr "Προθήκη ονόματος στήλης στην πρώτη γραμμή"
+
+#: admin/includes/primer-admin-options.php:1911
+msgid "Export Totals at the last row"
+msgstr "Εξαγωγή συνόλων στην τελευταία σειρά"
+
+#: admin/includes/primer-admin-options.php:1917
+msgid "Export Only Invoice Details per line"
+msgstr "Εξαγωγή μόνο λεπτομερειών τιμολογίου ανά γραμμή"
+
+#: admin/includes/primer-admin-options.php:1923
+msgid "Choose Invoice Date for the exported invoices"
+msgstr "Επιλέξτε Ημερομηνία τιμολογίου για τα εξαγόμενα τιμολόγια"
+
+#: admin/includes/primer-admin-options.php:1946
+msgid "Enable Scheduler"
+msgstr "Ενεργοποίηση προγράμματος"
+
+#: admin/includes/primer-admin-options.php:1951
+msgid "Export every"
+msgstr "Εξαγωγή κάθε"
+
+#: admin/includes/primer-admin-options.php:1956
+#: admin/includes/primer-admin-options.php:5688
+msgid "Select"
+msgstr "Select"
+
+#: admin/includes/primer-admin-options.php:1957
+msgid "15 minutes-Warning, server heavy load"
+msgstr "15 λεπτά"
+
+#: admin/includes/primer-admin-options.php:1958
+msgid "1 hour"
+msgstr "1 ώρα"
+
+#: admin/includes/primer-admin-options.php:1959
+msgid "12 hours"
+msgstr "12 ώρες"
+
+#: admin/includes/primer-admin-options.php:1960
+msgid "1 Day"
+msgstr "1 ημέρα"
+
+#: admin/includes/primer-admin-options.php:1961
+msgid "3 Days"
+msgstr "3 ημέρες"
+
+#: admin/includes/primer-admin-options.php:1962
+msgid "7 Days"
+msgstr "7 ημέρες"
+
+#: admin/includes/primer-admin-options.php:1963
+msgid "Every 1st of the month"
+msgstr "Πρώτη του μήνα"
+
+#: admin/includes/primer-admin-options.php:1964
+msgid "Every 15th of the month"
+msgstr "15 του μήνα"
+
+#: admin/includes/primer-admin-options.php:1973
+msgid "Export to Path"
+msgstr "Εξαγωγή σε φάκελο"
+
+#: admin/includes/primer-admin-options.php:1978
+msgid "Export path"
+msgstr "Φάκελος Εξαγωγής"
+
+#: admin/includes/primer-admin-options.php:1989
+msgid "Send Email"
+msgstr "Αποστολή email"
+
+#: admin/includes/primer-admin-options.php:1994
+msgid "Email to"
+msgstr "Αποστολή email σε"
+
+#: admin/includes/primer-admin-options.php:1995
+msgid ""
+"Check that Email settings are correct. If Email settings are missing or are "
+"incorrect, email will not be send."
+msgstr ""
+"Ελέγξτε ότι οι ρυθμίσεις email είναι σωστές. Εάν οι ρυθμίσεις email λείπουν "
+"ή είναι λανθασμένες, το email δεν θα σταλεί."
+
+#: admin/includes/primer-admin-options.php:2004
+msgid "Export Now"
+msgstr "Εξαγωγή"
+
+#: admin/includes/primer-admin-options.php:2013
+#: admin/includes/primer-admin-options.php:2019
+msgid "License credentials"
+msgstr "Διαπιστευτήρια άδειας χρήσης"
+
+#: admin/includes/primer-admin-options.php:2032
+msgid "License Key"
+msgstr "Κλειδί άδειας χρήσης"
+
+#: admin/includes/primer-admin-options.php:2038
+msgid "Activate"
+msgstr "Ενεργοποίηση Άδειας Χρήσης"
+
+#: admin/includes/primer-admin-options.php:2059
+msgid "License Details"
+msgstr "Πληροφορίες άδειας χρήσης"
+
+#: admin/includes/primer-admin-options.php:2065
+msgid "Plugin Package"
+msgstr "Πακέτο Plugin"
+
+#: admin/includes/primer-admin-options.php:2076
+msgid "Expires on"
+msgstr "Ημερομηνία λήξης"
+
+#: admin/includes/primer-admin-options.php:2087
+msgid "MyData Package"
+msgstr "Πακέτο MyData"
+
+#: admin/includes/primer-admin-options.php:2098
+msgid "Remaining MyData invoices for this month"
+msgstr "Υπολειπόμενα MyData τιμολόγια για αυτόν τον μήνα"
+
+#: admin/includes/primer-admin-options.php:2111
+msgid "Owner Details"
+msgstr "Πληροφορίες Επιχείρησης"
+
+#: admin/includes/primer-admin-options.php:2114
+msgid ""
+"These are the details used as issuer on your invoices and receipts. To "
+"change the following details, please send an email to support-plugin@primer."
+"gr with your username, your new company details and a copy of the IRS "
+"registration form. Below you have the choice to input ONLY FOR ONE TIME a "
+"translated alternative for your company details for foreign template invoices"
+msgstr ""
+"Αυτά είναι τα στοιχεία που χρησιμοποιούνται ως εκδότης στα τιμολόγια και τις "
+"αποδείξεις σας. Για να αλλάξετε τα παρακάτω στοιχεία, στείλτε ένα email στη "
+"διεύθυνση support-plugin@primer.gr με το όνομα χρήστη σας, τα νέα στοιχεία "
+"της εταιρείας σας και ένα αντίγραφο της φόρμας εγγραφής της IRS. Παρακάτω "
+"έχετε την επιλογή να εισαγάγετε ΜΟΝΟ ΓΙΑ ΜΙΑ ΦΟΡΑ μια μεταφρασμένη "
+"εναλλακτική για τα στοιχεία της εταιρείας σας για παραστατικά ξένων προτύπων."
+
+#: admin/includes/primer-admin-options.php:2117
+msgid "Company name"
+msgstr "Όνομα Επιχείρησης"
+
+#: admin/includes/primer-admin-options.php:2128
+msgid "Company name for English invoices"
+msgstr "Επωνυμία εταιρείας για τα αγγλικά παραστατικά"
+
+#: admin/includes/primer-admin-options.php:2138
+msgid "Company small name"
+msgstr "Διακριτικός τίτλος"
+
+#: admin/includes/primer-admin-options.php:2149
+msgid "Company small name for English invoices"
+msgstr "Διακριτικός τίτλος για τα αγγλικά παραστατικά"
+
+#: admin/includes/primer-admin-options.php:2159
+msgid "VAT number"
+msgstr "Αριθμός του Φορολογικού Μητρώου(ΑΦΜ)"
+
+#: admin/includes/primer-admin-options.php:2170
+msgid "Headquarters Address"
+msgstr "Διεύθυνση έδρας"
+
+#: admin/includes/primer-admin-options.php:2181
+msgid "Headquarters Address for English invoices"
+msgstr "Διεύθυνση έδρας για τα αγγλικά παραστατικά"
+
+#: admin/includes/primer-admin-options.php:2191
+msgid "Activity"
+msgstr "Δραστηριότητα"
+
+#: admin/includes/primer-admin-options.php:2202
+msgid "Activity for English invoices"
+msgstr "Δραστηριότητα για τα αγγλικά παραστατικά"
+
+#: admin/includes/primer-admin-options.php:2212
+msgid "GEMH number"
+msgstr "Αριθμός ΓΕΜΗ"
+
+#: admin/includes/primer-admin-options.php:2223
+msgid "Webpage"
+msgstr "Ιστοσελίδα"
+
+#: admin/includes/primer-admin-options.php:2234
+msgid "Phone number"
+msgstr "Αριθμός κινητού τηλεφώνου"
+
+#: admin/includes/primer-admin-options.php:2245
+msgid "Email"
+msgstr "Email"
+
+#: admin/includes/primer-admin-options.php:2256
+msgid "City"
+msgstr "Πόλη-Περιοχή"
+
+#: admin/includes/primer-admin-options.php:2267
+msgid "City for English invoices"
+msgstr "Πόλη-Περιοχή για τα αγγλικά παραστατικά"
+
+#: admin/includes/primer-admin-options.php:2277
+msgid "Postal Code"
+msgstr "Ταχυδρομικός Κώδικας"
+
+#: admin/includes/primer-admin-options.php:2288
+msgid "ΔΟΥ"
+msgstr "ΔΟΥ"
+
+#: admin/includes/primer-admin-options.php:2299
+msgid "DOY for English invoices"
+msgstr "ΔΟΥ για τα αγγλικά παραστατικά"
+
+#: admin/includes/primer-admin-options.php:2309
+msgid "Installation Number in the Taxis Registry:"
+msgstr "Αριθμός εγκατάστασης Μητρώου στο Taxis :"
+
+#: admin/includes/primer-admin-options.php:2319
+msgid "City :"
+msgstr "Πόλη-Περιοχή:"
+
+#: admin/includes/primer-admin-options.php:2329
+msgid "Address :"
+msgstr "Διεύθυνση :"
+
+#: admin/includes/primer-admin-options.php:2339
+msgid "Address Number :"
+msgstr "Αριθμός :"
+
+#: admin/includes/primer-admin-options.php:2349
+msgid "Postal Code :"
+msgstr "Ταχυδρομικός Κώδικας :"
+
+#: admin/includes/primer-admin-options.php:2359
+msgid "DOY :"
+msgstr "Δ.Ο.Υ :"
+
+#: admin/includes/primer-admin-options.php:2369
+msgid "Phone Number :"
+msgstr "Αριθμός κινητού τηλεφώνου"
+
+#: admin/includes/primer-admin-options.php:2379
+msgid "Search Invoices Password"
+msgstr "Κωδικός αναζήτησης τιμολογίων"
+
+#: admin/includes/primer-admin-options.php:2391
+msgid "General settings"
+msgstr "Γενικές Ρυθμίσεις"
+
+#: admin/includes/primer-admin-options.php:2397
+msgid "Check server compatibility"
+msgstr "Έλεγχος συμβατότητας διακομιστή"
+
+#: admin/includes/primer-admin-options.php:2441
+msgid "DISABLED"
+msgstr "Απενεργοποιημένο"
+
+#: admin/includes/primer-admin-options.php:2443
+msgid "ENABLED - OK"
+msgstr "Ενεργοποιημένο-OK"
+
+#: admin/includes/primer-admin-options.php:2454
+#: admin/includes/primer-admin-table.php:300
+msgid "Select order status"
+msgstr "Επιλέξτε κατάσταση παραγγελίας"
+
+#: admin/includes/primer-admin-options.php:2468
+msgid "Select Standard VAT rates"
+msgstr "Επιλέξτε τυπικό συντελεστή ΦΠΑ"
+
+#: admin/includes/primer-admin-options.php:2494
+msgid "Select Reduced VAT rates"
+msgstr "Επιλέξτε μειωμένο συντελεστή ΦΠΑ"
+
+#: admin/includes/primer-admin-options.php:2521
+msgid "Select Zero VAT rates"
+msgstr "Επιλέξτε μηδενικό συντελεστή ΦΠΑ"
+
+#: admin/includes/primer-admin-options.php:3443
+msgid "Message not sent!"
+msgstr "Το μήνυμα δεν στάλθηκε!"
+
+#: admin/includes/primer-admin-options.php:3447
+msgid "Message sent successfully!"
+msgstr "Το μήνυμα στάλθηκε με επιτυχία!"
+
+#: admin/includes/primer-admin-options.php:3652
+#: admin/includes/primer-admin-options.php:3653
+#: admin/includes/primer-admin-options.php:3655
+#: admin/includes/primer-admin-table.php:844
+#: admin/includes/primer-admin-table.php:845
+#: admin/includes/primer-admin-table.php:847 includes/class-primer-cron.php:337
+#: includes/class-primer-cron.php:338 includes/class-primer-cron.php:339
+#: includes/class-primer-cron.php:1462 includes/class-primer-cron.php:1463
+#: includes/class-primer-cron.php:1464
+msgid ""
+"Could not connect to AADE. Please check your general settings if you want to "
+"enable transmission failure option or contact Primer Software if the problem "
+"persists."
+msgstr ""
+"Δεν ήταν δυνατή η σύνδεση με την ΑΑΔΕ. Ελέγξτε τις γενικές ρυθμίσεις σας εάν "
+"θέλετε να ενεργοποιήσετε την επιλογή αποτυχίας μετάδοσης ή επικοινωνήστε με "
+"την Primer Software εάν το πρόβλημα παραμένει."
+
+#: admin/includes/primer-admin-options.php:3665
+#: admin/includes/primer-admin-options.php:3666
+#: admin/includes/primer-admin-options.php:3668
+#: admin/includes/primer-admin-table.php:857
+#: admin/includes/primer-admin-table.php:858
+#: admin/includes/primer-admin-table.php:860 includes/class-primer-cron.php:350
+#: includes/class-primer-cron.php:351 includes/class-primer-cron.php:352
+#: includes/class-primer-cron.php:961 includes/class-primer-cron.php:962
+#: includes/class-primer-cron.php:963
+msgid ""
+"You have no other monthly invoices left.Please go to MyData settings and "
+"press \"Get Remaining\" button if you are sure that the month is passed and "
+"you have remaining invoices."
+msgstr ""
+"Δεν σας έχουν απομείνει άλλα μηνιαία τιμολόγια. Μεταβείτε στις ρυθμίσεις "
+"MyData και πατήστε το κουμπί \"Λήψη υπολειπόμενων\" εάν είστε βέβαιοι ότι ο "
+"μήνας έχει παρέλθει και ότι έχετε υπόλοιπα τιμολόγια."
+
+#: admin/includes/primer-admin-options.php:4006
+#: admin/includes/primer-admin-options.php:4007
+#: admin/includes/primer-admin-table.php:1195
+#: admin/includes/primer-admin-table.php:1196
+#: includes/class-primer-cron.php:691 includes/class-primer-cron.php:692
+msgid "Unable to connect Provider and AADE."
+msgstr "Απώλεια Διασύνδεσης Οντότητας - Παρόχου."
+
+#: admin/includes/primer-admin-options.php:4012
+#: admin/includes/primer-admin-table.php:1200
+#: includes/class-primer-cron.php:696
+msgid "Unable to connect Entity and provider.."
+msgstr "Απώλεια Διασύνδεσης Παρόχου - ΑΑΔΕ."
+
+#: admin/includes/primer-admin-options.php:4013
+#: admin/includes/primer-admin-table.php:1201
+#: includes/class-primer-cron.php:697
+msgid "Unable to connect Entity and provider."
+msgstr "Απώλεια Διασύνδεσης Παρόχου - ΑΑΔΕ."
+
+#: admin/includes/primer-admin-options.php:4037
+#: admin/includes/primer-admin-options.php:4038
+#: admin/includes/primer-admin-options.php:4045
+#: admin/includes/primer-admin-options.php:4046
+#: admin/includes/primer-admin-options.php:4048
+#: admin/includes/primer-admin-table.php:1223
+#: admin/includes/primer-admin-table.php:1224
+#: admin/includes/primer-admin-table.php:1231
+#: admin/includes/primer-admin-table.php:1232
+#: admin/includes/primer-admin-table.php:1234
+#: includes/class-primer-cron.php:715 includes/class-primer-cron.php:719
+#: includes/class-primer-cron.php:1247 includes/class-primer-cron.php:1248
+#: includes/class-primer-cron.php:1250 includes/class-primer-cron.php:1798
+#: includes/class-primer-cron.php:1799 includes/class-primer-cron.php:1805
+#: includes/class-primer-cron.php:1806 includes/class-primer-cron.php:1808
+msgid "API not sent."
+msgstr "API δεν έχει σταλεί."
+
+#: admin/includes/primer-admin-options.php:4040
+#: admin/includes/primer-admin-table.php:1226
+#: includes/class-primer-cron.php:1801
+msgid "Something wrong"
+msgstr "Κάποιο λάθος υπάρχει"
+
+#: admin/includes/primer-admin-options.php:4176
+msgid "FAIL - correct folder permissions are: 755 for directories"
+msgstr ""
+"Αποτυχία - διορθώστε τα δικαιώματα των φακέλων σας είναι: 755 για καταλόγους"
+
+#: admin/includes/primer-admin-options.php:4188
+msgid "FAIL - correct files permissions are: 644 for files"
+msgstr ""
+"Αποτυχία - διορθώστε τα δικαιώματα των φακέλων σας είναι: 644 για αρχεία"
+
+#: admin/includes/primer-admin-options.php:4197
+msgid "Fail"
+msgstr "Αποτυχία"
+
+#: admin/includes/primer-admin-options.php:4205
+msgid "Pass. The versions match"
+msgstr "Επιτυχία. Οι εκδόσεις ταιριάζουν"
+
+#: admin/includes/primer-admin-options.php:4207
+msgid "Fail. The versions do not match"
+msgstr "Αποτυχία. Οι εκδόσεις δεν ταιριάζουν"
+
+#: admin/includes/primer-admin-options.php:4251
+msgid "Server compatibility check"
+msgstr "Έλεγχος συμβατότητας διακομιστή"
+
+#: admin/includes/primer-admin-options.php:4252
+msgid "Results: "
+msgstr "Αποτελέσματα: "
+
+#: admin/includes/primer-admin-options.php:4256
+msgid "Cron capability: "
+msgstr "Υποστήριξη cron: "
+
+#: admin/includes/primer-admin-options.php:4261
+msgid "Folders permissions: "
+msgstr "Δικαιώματα φακέλων: "
+
+#: admin/includes/primer-admin-options.php:4266
+msgid "File permissions: "
+msgstr "Δικαιώματα αρχείων: "
+
+#: admin/includes/primer-admin-options.php:4271
+msgid "Time zone: "
+msgstr "Ζώνη ώρας: "
+
+#: admin/includes/primer-admin-options.php:4276
+msgid "Latest plugin version: "
+msgstr "Τελευταία έκδοση του plugin: "
+
+#: admin/includes/primer-admin-options.php:4281
+msgid "Wordpress version: "
+msgstr "Έκδοση Wordpress: "
+
+#: admin/includes/primer-admin-options.php:4286
+msgid "Woocommerce version: "
+msgstr "Έκδοση Woocommerce: "
+
+#: admin/includes/primer-admin-options.php:4358
+msgid "ΟΡΟΙ ΚΑΙ ΠΡΟΫΠΟΘΕΣΕΙΣ"
+msgstr "ΟΡΟΙ ΚΑΙ ΠΡΟΫΠΟΘΕΣΕΙΣ"
+
+#: admin/includes/primer-admin-options.php:4739
+msgid "The Numbering of the invoices has been reset."
+msgstr "'Έχει γίνει επαναφορά στην αρίθμηση των τιμολογίων."
+
+#: admin/includes/primer-admin-options.php:5400
+msgid ""
+"PHP OpenSSL extension is not installed on the server. It's required by "
+"Primer SMTP to operate properly. Please contact your server administrator or "
+"hosting provider and ask them to install it."
+msgstr ""
+"Η επέκταση PHP OpenSSL δεν έχει εγκατασταθεί στον διακομιστή σας. Απαιτείται "
+"από το Primer SMTP για να λειτουργεί σωστά.  Παρακαλώ επικοινωνήστε με τον "
+"διαχειριστή του διακομιστή σας ή τον πάροχο φιλοξενίας και ζητήστε τους να "
+"το εγκαταστήσουν."
+
+#: admin/includes/primer-admin-options.php:5403
+msgid ""
+"PHP OpenSSL extension is not installed on the server. It is required for "
+"encryption to work properly. Please contact your server administrator or "
+"hosting provider and ask them to install it."
+msgstr ""
+"Η επέκταση PHP OpenSSL δεν έχει εγκατασταθεί στον διακομιστή σας. Απαιτείται "
+"για την κρυπτογράφηση ώστε να λειτουργεί σωστά.  Παρακαλώ επικοινωνήστε με "
+"τον διαχειριστή του διακομιστή σας ή τον πάροχο φιλοξενίας και ζητήστε τους "
+"να το εγκαταστήσουν."
+
+#. translators: %s is PHP version
+#: admin/includes/primer-admin-options.php:5411
+#, php-format
+msgid ""
+"Your PHP version is %s, encryption function requires PHP version 5.6.0 or "
+"higher."
+msgstr ""
+"Η έκδοση PHP είναι %s, η λειτουργία κρυπτογράφησης απαιτεί PHP έκδοση 5.6.0 "
+"ή νεότερη."
+
+#: admin/includes/primer-admin-options.php:5436
+msgid ""
+"Please enter a valid email address in the 'Send email from account' field."
+msgstr ""
+"Παρακαλώ να γίνει εισαγωγή μιας έγκυρης διεύθυνσης email στο πεδίο "
+"\"Αποστολή email από τον λογαριασμό\"."
+
+#: admin/includes/primer-admin-options.php:5466
+msgid "Please enter a valid port in the 'SMTP Port' field."
+msgstr "Παρακαλώ εισάγετε μια έγκυρη θύρα στο πεδίο \"θύρα SMTP\"."
+
+#: admin/includes/primer-admin-options.php:5475
+msgid "Settings saved."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν."
+
+#: admin/includes/primer-admin-options.php:5477
+msgid "Settings are not saved."
+msgstr "Οι ρυθμίσεις δεν έχουν αποθηκευτεί."
+
+#: admin/includes/primer-admin-options.php:5488
+msgid "Please enter a valid email address in the recipient email field."
+msgstr ""
+"Παρακαλώ εισάγετε μια έγκυρη διεύθυνση email στο πεδίο του παραλήπτη email."
+
+#: admin/includes/primer-admin-receipt-log-automation-table.php:15
+#: admin/includes/primer-admin-receipt-log-table.php:15
+#: admin/includes/primer-admin-table.php:68
+#: includes/template-tags/primer-tags-receipt.php:27
+msgid "Receipt Log"
+msgstr "Αρχείο καταγραφής παραστατικών"
+
+#: admin/includes/primer-admin-receipt-log-automation-table.php:29
+#: admin/includes/primer-admin-receipt-log-table.php:29
+#: includes/class-primer-cron.php:2775
+msgid "Order No"
+msgstr "Αριθμός παραγγελίας"
+
+#: admin/includes/primer-admin-receipt-log-automation-table.php:30
+#: admin/includes/primer-admin-receipt-log-table.php:30
+#: admin/includes/primer-admin-table.php:60 includes/class-primer-cron.php:2776
+msgid "Order Date"
+msgstr "Ημερομηνία παραγγελίας"
+
+#: admin/includes/primer-admin-receipt-log-automation-table.php:31
+#: admin/includes/primer-admin-receipt-log-table.php:31
+#: includes/class-primer-cron.php:2777
+msgid "Invoice No"
+msgstr "Αριθμός τιμολογίου"
+
+#: admin/includes/primer-admin-receipt-log-automation-table.php:33
+#: admin/includes/primer-admin-receipt-log-table.php:33
+#: admin/includes/primer-admin-receipt-table.php:34
+#: admin/includes/primer-admin-table.php:62 includes/class-primer-cron.php:2779
+msgid "Client"
+msgstr "Πελάτης"
+
+#: admin/includes/primer-admin-receipt-log-automation-table.php:34
+#: admin/includes/primer-admin-receipt-log-table.php:34
+#: includes/class-primer-cron.php:2780
+msgid "Issued receipt"
+msgstr "Εκδοθείσα απόδειξη"
+
+#: admin/includes/primer-admin-receipt-log-automation-table.php:35
+#: admin/includes/primer-admin-receipt-log-table.php:35
+msgid "Email Send"
+msgstr "Email έχει σταλεί"
+
+#: admin/includes/primer-admin-receipt-log-automation-table.php:36
+#: admin/includes/primer-admin-receipt-log-table.php:36
+#: includes/class-primer-cron.php:2782
+msgid "Receipt Error"
+msgstr "Σφάλμα Απόδειξης"
+
+#: admin/includes/primer-admin-receipt-log-automation-table.php:37
+#: admin/includes/primer-admin-receipt-log-table.php:37
+msgid "Email error"
+msgstr "Σφάλμα email"
+
+#: admin/includes/primer-admin-receipt-log-automation-table.php:69
+#: admin/includes/primer-admin-receipt-log-table.php:69
+msgid "Issue Receipts Report"
+msgstr "Έκδοση αναφοράς Παραστατικών"
+
+#: admin/includes/primer-admin-receipt-log-automation-table.php:79
+#: admin/includes/primer-admin-receipt-log-table.php:79
+msgid "Show only errors"
+msgstr "Δείξε μόνο τα σφάλματα"
+
+#: admin/includes/primer-admin-receipt-log-automation-table.php:88
+#: admin/includes/primer-admin-receipt-log-table.php:88
+msgid "Show only issued"
+msgstr "Δείξε μόνο αυτά που έχουν εκδοθεί"
+
+#: admin/includes/primer-admin-receipt-log-automation-table.php:91
+#: admin/includes/primer-admin-receipt-log-table.php:91
+#: admin/includes/primer-admin-receipt-table.php:326
+#: admin/includes/primer-admin-table.php:333
+msgid "Apply filter"
+msgstr "Εφαρμόστε φίλτρο"
+
+#: admin/includes/primer-admin-receipt-log-automation-table.php:243
+#: admin/includes/primer-admin-receipt-log-table.php:246
+msgid "No receipts report found."
+msgstr "Δεν βρέθηκε αναφορά παραστατικών."
+
+#: admin/includes/primer-admin-receipt-table.php:30
+#: admin/includes/primer-admin-table.php:59
+msgid "No."
+msgstr "A/A."
+
+#: admin/includes/primer-admin-receipt-table.php:32
+msgid "Receipt Date"
+msgstr "Ημερομηνία Παραστατικού"
+
+#: admin/includes/primer-admin-receipt-table.php:33
+#: admin/includes/primer-admin-table.php:61
+#: includes/vendor/cmb2/includes/CMB2_JS.php:227
+msgid "Hour"
+msgstr "Ώρα"
+
+#: admin/includes/primer-admin-receipt-table.php:36
+#: admin/includes/primer-admin-table.php:63
+msgid "Total Price"
+msgstr "Συνολική αξία"
+
+#: admin/includes/primer-admin-receipt-table.php:37
+msgid "Receipt Status"
+msgstr "Κατάσταση Απόδειξης"
+
+#: admin/includes/primer-admin-receipt-table.php:38
+msgid "Errors"
+msgstr "Σφάλματα"
+
+#: admin/includes/primer-admin-receipt-table.php:40
+msgid "Cancelled Receipt"
+msgstr "Ακυρωμένη απόδειξη"
+
+#: admin/includes/primer-admin-receipt-table.php:59
+msgid "Search  by order id or number of invoice"
+msgstr "Αναζήτηση παραστατικού"
+
+#: admin/includes/primer-admin-receipt-table.php:88
+#: includes/template-tags/primer-tags-display-modules.php:1332
+msgid "Απόδειξη Λιανικής"
+msgstr "Απόδειξη Λιανικής"
+
+#: admin/includes/primer-admin-receipt-table.php:90
+#: includes/template-tags/primer-tags-display-modules.php:1334
+msgid "Απόδειξη Παροχής Υπηρεσιών"
+msgstr "Απόδειξη Παροχής Υπηρεσιών"
+
+#: admin/includes/primer-admin-receipt-table.php:95
+#: includes/class-primer-cron.php:2139
+#: includes/template-tags/primer-tags-display-modules.php:1339
+msgid "Τιμολόγιο Πώλησης"
+msgstr "Τιμολόγιο Πώλησης"
+
+#: admin/includes/primer-admin-receipt-table.php:97
+#: includes/template-tags/primer-tags-display-modules.php:1341
+msgid "Τιμολόγιο Παροχής Υπηρεσιών"
+msgstr "Τιμολόγιο Παροχής Υπηρεσιών"
+
+#: admin/includes/primer-admin-receipt-table.php:101
+#: includes/class-primer-cron.php:2148
+#: includes/template-tags/primer-tags-display-modules.php:1345
+msgid "Πιστωτικό Στοιχείο Λιανικής"
+msgstr "Πιστωτικό Στοιχείο Λιανικής"
+
+#: admin/includes/primer-admin-receipt-table.php:104
+#: includes/class-primer-cron.php:2151
+#: includes/template-tags/primer-tags-display-modules.php:1348
+msgid "Πιστωτικό Τιμολόγιο Συσχετιζόμενο"
+msgstr "Πιστωτικό Τιμολόγιο Συσχετιζόμενο"
+
+#: admin/includes/primer-admin-receipt-table.php:109
+#: includes/template-tags/primer-tags-display-modules.php:1353
+msgid "RETAIL RECEIPT"
+msgstr "RETAIL RECEIPT"
+
+#: admin/includes/primer-admin-receipt-table.php:111
+#: includes/template-tags/primer-tags-display-modules.php:1355
+msgid "PROOF OF SERVICE"
+msgstr "PROOF OF SERVICE"
+
+#: admin/includes/primer-admin-receipt-table.php:116
+#: includes/template-tags/primer-tags-display-modules.php:1360
+msgid "SALE INVOICE"
+msgstr "SALE INVOICE"
+
+#: admin/includes/primer-admin-receipt-table.php:118
+#: includes/template-tags/primer-tags-display-modules.php:1362
+msgid "INVOICE"
+msgstr "INVOICE"
+
+#: admin/includes/primer-admin-receipt-table.php:242
+#: admin/includes/primer-admin-table.php:247
+msgid "Filters"
+msgstr "Φίλτρα"
+
+#: admin/includes/primer-admin-receipt-table.php:243
+#: admin/includes/primer-admin-table.php:248
+msgid "Date Range:"
+msgstr "Εύρος ημερομηνιών:"
+
+#: admin/includes/primer-admin-receipt-table.php:247
+#: admin/includes/primer-admin-table.php:253
+msgid "Year: "
+msgstr "Έτος: "
+
+#: admin/includes/primer-admin-receipt-table.php:263
+#: admin/includes/primer-admin-table.php:274
+msgid "From: "
+msgstr "Από: "
+
+#: admin/includes/primer-admin-receipt-table.php:266
+#: admin/includes/primer-admin-table.php:277
+msgid "To: "
+msgstr "Μέχρι: "
+
+#: admin/includes/primer-admin-receipt-table.php:270
+#: admin/includes/primer-admin-table.php:281
+msgid "Client: "
+msgstr "Πελάτης: "
+
+#: admin/includes/primer-admin-receipt-table.php:271
+#: admin/includes/primer-admin-table.php:282
+msgid "Select clients"
+msgstr "Επιλέξτε πελάτες"
+
+#: admin/includes/primer-admin-receipt-table.php:280
+#: admin/includes/primer-admin-table.php:290
+msgid "Guest client"
+msgstr "Πελάτης επισκέπτης"
+
+#: admin/includes/primer-admin-receipt-table.php:288
+#: admin/includes/primer-admin-table.php:316
+msgid "Receipt Status: "
+msgstr "Κατάσταση απόδειξης: "
+
+#: admin/includes/primer-admin-receipt-table.php:289
+msgid "Select receipt status"
+msgstr "Επιλέξτε κατάσταση απόδειξης"
+
+#: admin/includes/primer-admin-receipt-table.php:305
+msgid "Invoice Type: "
+msgstr "Τύπος τιμολογίου"
+
+#: admin/includes/primer-admin-receipt-table.php:306
+msgid "Select invoice type"
+msgstr "Επιλέξτε πρότυπο ελληνικού τιμολογίου"
+
+#: admin/includes/primer-admin-receipt-table.php:765
+msgid "No receipts found."
+msgstr "Δεν βρέθηκαν παραστατικά."
+
+#: admin/includes/primer-admin-table.php:23
+msgid "Order"
+msgstr "Παραγγελία"
+
+#: admin/includes/primer-admin-table.php:45
+msgid "Search  order id"
+msgstr "Αναζήτηση παραγγελίας"
+
+#: admin/includes/primer-admin-table.php:64
+msgid "Order Status"
+msgstr "Κατάσταση παραγγελίας"
+
+#: admin/includes/primer-admin-table.php:65
+msgid "Payment Method"
+msgstr "Κατάσταση πληρωμής"
+
+#: admin/includes/primer-admin-table.php:66
+msgid "Transmission Status"
+msgstr "Κατάσταση Σύνδεσης"
+
+#: admin/includes/primer-admin-table.php:67
+msgid "Receipt date"
+msgstr "Ημερομηνία Παραστατικού"
+
+#: admin/includes/primer-admin-table.php:70
+msgid "Credit Log"
+msgstr "Αρχείο καταγραφής πιστωτικών παραστατικών"
+
+#: admin/includes/primer-admin-table.php:71
+msgid "Receipt ID"
+msgstr "Αναγνωριστικό παραστατικού"
+
+#: admin/includes/primer-admin-table.php:72
+msgid "Accept 48"
+msgstr "Accept 48"
+
+#: admin/includes/primer-admin-table.php:299
+msgid "Order Status: "
+msgstr "Κατάσταση παραγγελίας: "
+
+#: admin/includes/primer-admin-table.php:340
+msgid ""
+"Orders for invoices are not shown because license key does not support them"
+msgstr ""
+"Παραγγελίες για τιμολόγια δεν εμφανίζονται, γιατί η άδεια χρήσης δεν τις "
+"υποστηρίζει"
+
+#: admin/includes/primer-admin-table.php:343
+msgid ""
+"Orders for invoices-receipts within E.U or out E.U. are not shown because "
+"license key does not support them"
+msgstr ""
+"Παραγγελίες για τιμολόγια εντός και εκτός της Ε.Ε δεν εμφανίζονται, γιατί η "
+"άδεια χρήσης δεν τις υποστηρίζει"
+
+#: admin/includes/primer-admin-table.php:538
+msgid "No orders found."
+msgstr "Δεν βρέθηκαν παραγγελίες."
+
+#: admin/includes/primer-admin-table.php:750
+msgid "This order has already been issued. Please refresh the page."
+msgstr ""
+"Η ενέργεια απέτυχε. Παρακαλώ ανανεώστε την σελίδα και προσπαθήστε ξανά."
+
+#: admin/includes/primer-admin-table.php:752
+#: admin/includes/primer-admin-table.php:753
+msgid "This order has already been issued by the automation. Press refresh."
+msgstr ""
+"Η παραγγελία αυτή έχει ήδη εκδοθεί από τον αυτοματισμό. Πατήστε ανανέωση."
+
+#: admin/includes/primer-admin-table.php:1472
+msgid "Send JSON for order "
+msgstr "Αποστολή JSON για την παραγγελια "
+
+#: admin/includes/primer-admin-table.php:1484
+msgid "Send HTML JSON for order "
+msgstr "Αποστολή HTML JSON για την παραγγελία "
+
+#: includes/class-primer-cron.php:641 includes/class-primer-cron.php:649
+msgid "Email failed. Please check your email configuration"
+msgstr "Το email απέτυχε. Ελέγξτε τη διαμόρφωση του email σας"
+
+#: includes/class-primer-cron.php:1495 includes/class-primer-cron.php:1496
+#: includes/class-primer-cron.php:1497
+msgid ""
+"You have no other monthly invoices left. Please go to MyData settings and "
+"press \"Get Remaining\" button if you are sure that the month is passed and "
+"you have remaining invoices."
+msgstr ""
+"Δεν σας έχουν απομείνει άλλα μηνιαία τιμολόγια. Μεταβείτε στις ρυθμίσεις "
+"MyData και πατήστε το κουμπί \"Λήψη υπολειπόμενων\" εάν είστε βέβαιοι ότι ο "
+"μήνας έχει παρέλθει και ότι έχετε υπόλοιπα τιμολόγια."
+
+#: includes/class-primer-cron.php:1852
+msgid "Series of the Invoice"
+msgstr "Series of the Invoice"
+
+#: includes/class-primer-cron.php:1853
+msgid "Client Name"
+msgstr "Πελάτης"
+
+#: includes/class-primer-cron.php:2136
+msgid "Απόδειξη Λιανικής Πώλησης"
+msgstr "Απόδειξη Λιανικής Πώλησης"
+
+#: includes/class-primer-cron.php:2142
+msgid "Τιμολόγιο Πώλησης / Ενδοκοινοτικές Παραδόσεις"
+msgstr "Τιμολόγιο Πώλησης / Ενδοκοινοτικές Παραδόσεις"
+
+#: includes/class-primer-cron.php:2145
+msgid "Τιμολόγιο Πώλησης / Παραδόσεις Τρίτων Χωρών"
+msgstr "Τιμολόγιο Πώλησης / Παραδόσεις Τρίτων Χωρών"
+
+#: includes/class-primer-cron.php:2650
+msgid "Your export file from Primer"
+msgstr "Το αρχείο εξαγωγής σας από το Primer"
+
+#: includes/class-primer-cron.php:2781
+msgid "Email send"
+msgstr "Email έχει σταλεί"
+
+#: includes/class-primer-cron.php:2783
+msgid "Email Error"
+msgstr "Σφάλμα email"
+
+#: includes/class-primer-smtp.php:32
+msgid "*** "
+msgstr "*** "
+
+#: includes/class-primer-smtp.php:311 includes/class-primer-smtp.php:315
+msgid "Test email sent successfully"
+msgstr "Το δοκιμαστικό email εστάλη με επιτυχία"
+
+#: includes/class-primer-smtp.php:348
+#, php-format
+msgid ""
+"Your Primer MyData subscription ends in approximately %s days. Go to <a "
+"target=\"_blank\" href=\"https://primer.gr\"> primer.gr</a> and renew your "
+"subscription in my accounts page."
+msgstr ""
+"Η συνδρομή σας Primer MyData λήγει σε περίπου %s ημέρες. Μεταβείτε στο <a "
+"target=\"_blank\" href=\"https://primer.gr\"> primer.gr</a> και ανανεώστε τη "
+"συνδρομή σας στη σελίδα των λογαριασμών μου."
+
+#: includes/class-primer-smtp.php:362
+msgid ""
+"It looks like you issued a lot of orders lately. Please leave us a 5-star "
+"recommendation in WordPress <a target=\"_blank\" href=\"https://wordpress."
+"org/support/plugin/primer-mydata/reviews/#new-post\"> here.</a>"
+msgstr ""
+"Φαίνεται ότι έχετε εκδώσει πολλές παραγγελίες τον τελευταίο καιρό. Αφήστε "
+"μας μια αξιολόγηση 5 αστέρων στο Wordpress <a target=\"_blank\" "
+"href=\"https://wordpress.org/support/plugin/primer-mydata/reviews/#new-"
+"post\"> εδώ.</a>"
+
+#: includes/class-primer-smtp.php:372
+msgid "Do Not Show Again"
+msgstr ""
+
+#: includes/class-primer-smtp.php:384
+msgid ""
+"Please re-activate your product in order the plugin to be fully updated."
+msgstr ""
+"Παρακαλούμε ενεργοποιήστε εκ νέου το προϊόν σας για να ενημερωθεί πλήρως το "
+"πρόσθετο. Μετά την ενεργοποίηση, μεταβείτε στις Ρυθμίσεις >MyData Settings "
+"και πατήστε αποθήκευση."
+
+#: includes/class-primer-smtp.php:394
+msgid ""
+"You have no other monthly invoices left.Please go to MyData settings and "
+"press \"Get Remaining\" button if you are sure that the month is passed and "
+"you have remaining invoices in order to continue issuing orders."
+msgstr ""
+"Δεν έχετε άλλα μηνιαία τιμολόγια. Μεταβείτε στις ρυθμίσεις MyData και "
+"πατήστε το κουμπί \"Λήψη εναπομείναντος\" εάν είστε βέβαιοι ότι ο μήνας έχει "
+"περάσει και έχετε υπόλοιπα τιμολόγια για να συνεχίσετε την έκδοση "
+"παραγγελιών."
+
+#: includes/class-primer-smtp.php:405
+msgid ""
+"Please configure your SMTP credentials in the <a href=\"\">settings menu</a> "
+"in order to send email using SMTP."
+msgstr ""
+"Ρυθμίστε τις παραμέτρους των διαπιστευτηρίων SMTP στο <a href=\"%s\">μενού "
+"ρυθμίσεων</a> για να στείλετε email χρησιμοποιώντας SMTP."
+
+#: includes/class-primer-smtp.php:417
+msgid ""
+"Please enable compatibility mode in WooCommerce <a href=\"admin.php?page=wc-"
+"settings&tab=advanced&section=features\">settings</a> in order to use Primer."
+msgstr ""
+"Ενεργοποιήστε τη λειτουργία συμβατότητας στο WooCommerce <a href=\"admin.php?"
+"page=wc-settings&tab=advanced&section=features\">ρυθμίσεις</a> προκειμένου "
+"να χρησιμοποιήσετε το Primer."
+
+#: includes/template-tags/primer-tags-display-modules.php:21
+#: includes/template-tags/primer-tags-display-modules.php:26
+msgid "ΑΚΥΡΟ"
+msgstr "ΑΚΥΡΟ"
+
+#: includes/template-tags/primer-tags-display-modules.php:28
+msgid "INVALID"
+msgstr "INVALID"
+
+#: includes/template-tags/primer-tags-display-modules.php:107
+#: includes/template-tags/primer-tags-display-modules.php:207
+msgid "ISSUER'S COMPANY NAME"
+msgstr "ΟΝΟΜΑ ΕΠΙΧΕΙΡΗΣΗΣ ΕΚΔΟΤΗ"
+
+#: includes/template-tags/primer-tags-display-modules.php:116
+#: includes/template-tags/primer-tags-display-modules.php:216
+msgid "COMPANY ACTIVITY"
+msgstr "Δραστηριότητα επιχείρησης"
+
+#: includes/template-tags/primer-tags-display-modules.php:127
+#, fuzzy
+#| msgid "ISSUER'S COMPANY NAME"
+msgid "ISSUER'S COMPANY ADDRESS"
+msgstr "ΟΝΟΜΑ ΕΠΙΧΕΙΡΗΣΗΣ ΕΚΔΟΤΗ"
+
+#: includes/template-tags/primer-tags-display-modules.php:127
+msgid "ISSUER'S COMPANY CITY"
+msgstr "ΠΟΛΗ ΕΠΙΧΕΙΡΗΣΗΣ ΕΚΔΟΤΗ"
+
+#: includes/template-tags/primer-tags-display-modules.php:127
+msgid "ISSUER'S COMPANY TK"
+msgstr "Τ.Κ. ΕΠΙΧΕΙΡΗΣΗΣ ΕΚΔΟΤΗ"
+
+#: includes/template-tags/primer-tags-display-modules.php:127
+#, fuzzy
+#| msgid "ISSUER'S COMPANY NAME"
+msgid "ISSUER'S COMPANY PHONE"
+msgstr "ΟΝΟΜΑ ΕΠΙΧΕΙΡΗΣΗΣ ΕΚΔΟΤΗ"
+
+#: includes/template-tags/primer-tags-display-modules.php:127
+#, fuzzy
+#| msgid "ISSUER'S COMPANY CITY"
+msgid "ISSUER'S COMPANY DOY"
+msgstr "ΠΟΛΗ ΕΠΙΧΕΙΡΗΣΗΣ ΕΚΔΟΤΗ"
+
+#: includes/template-tags/primer-tags-display-modules.php:132
+#: includes/template-tags/primer-tags-display-modules.php:220
+msgid "ΑΦΜ: "
+msgstr "ΑΦΜ: "
+
+#: includes/template-tags/primer-tags-display-modules.php:132
+#: includes/template-tags/primer-tags-display-modules.php:252
+msgid "ΓΕΜΗ: "
+msgstr "ΓΕΜΗ: "
+
+#: includes/template-tags/primer-tags-display-modules.php:134
+#: includes/template-tags/primer-tags-display-modules.php:222
+msgid "VAT: "
+msgstr "VAT: "
+
+#: includes/template-tags/primer-tags-display-modules.php:134
+#: includes/template-tags/primer-tags-display-modules.php:254
+msgid "GEMH: "
+msgstr "GEMH: "
+
+#: includes/template-tags/primer-tags-display-modules.php:229
+msgid "Υποκατάστημα: "
+msgstr ""
+
+#: includes/template-tags/primer-tags-display-modules.php:231
+msgid "Branch: "
+msgstr ""
+
+#: includes/template-tags/primer-tags-display-modules.php:238
+msgid "Δ.Ο.Υ: "
+msgstr ""
+
+#: includes/template-tags/primer-tags-display-modules.php:240
+msgid "DOY: "
+msgstr "DOY: "
+
+#: includes/template-tags/primer-tags-display-modules.php:245
+msgid "ΤΗΛΕΦΩΝΟ: "
+msgstr "ΤΗΛΕΦΩΝΟ: "
+
+#: includes/template-tags/primer-tags-display-modules.php:247
+msgid "PHONE: "
+msgstr "PHONE: "
+
+#: includes/template-tags/primer-tags-display-modules.php:1366
+msgid "Credit Retail Receipt"
+msgstr "Credit Retail Receipt"
+
+#: includes/template-tags/primer-tags-display-modules.php:1369
+msgid "Credit Invoice Related"
+msgstr "Credit Invoice Related"
+
+#: includes/template-tags/primer-tags-receipt.php:35
+msgid "Receipts Log"
+msgstr "Αρχείο καταγραφής παραστατικών"
+
+#: includes/template-tags/primer-tags-receipt.php:43
+msgid "Automation Log"
+msgstr "Ρυθμίσεις Αυτοματοποίησης"
+
+#: includes/vendor/cmb2/example-functions.php:115
+msgid "Test Metabox"
+msgstr "Test Metabox"
+
+#: includes/vendor/cmb2/example-functions.php:148
+#: includes/vendor/cmb2/example-functions.php:492
+msgid "Test Text"
+msgstr "Test Text"
+
+#: includes/vendor/cmb2/example-functions.php:149
+#: includes/vendor/cmb2/example-functions.php:162
+#: includes/vendor/cmb2/example-functions.php:175
+#: includes/vendor/cmb2/example-functions.php:182
+#: includes/vendor/cmb2/example-functions.php:195
+#: includes/vendor/cmb2/example-functions.php:203
+#: includes/vendor/cmb2/example-functions.php:212
+#: includes/vendor/cmb2/example-functions.php:220
+#: includes/vendor/cmb2/example-functions.php:235
+#: includes/vendor/cmb2/example-functions.php:243
+#: includes/vendor/cmb2/example-functions.php:251
+#: includes/vendor/cmb2/example-functions.php:268
+#: includes/vendor/cmb2/example-functions.php:277
+#: includes/vendor/cmb2/example-functions.php:293
+#: includes/vendor/cmb2/example-functions.php:300
+#: includes/vendor/cmb2/example-functions.php:307
+#: includes/vendor/cmb2/example-functions.php:332
+#: includes/vendor/cmb2/example-functions.php:345
+#: includes/vendor/cmb2/example-functions.php:358
+#: includes/vendor/cmb2/example-functions.php:370
+#: includes/vendor/cmb2/example-functions.php:384
+#: includes/vendor/cmb2/example-functions.php:392
+#: includes/vendor/cmb2/example-functions.php:401
+#: includes/vendor/cmb2/example-functions.php:408
+#: includes/vendor/cmb2/example-functions.php:422
+#: includes/vendor/cmb2/example-functions.php:493
+#: includes/vendor/cmb2/example-functions.php:583
+#: includes/vendor/cmb2/example-functions.php:591
+#: includes/vendor/cmb2/example-functions.php:598
+#: includes/vendor/cmb2/example-functions.php:605
+#: includes/vendor/cmb2/example-functions.php:612
+#: includes/vendor/cmb2/example-functions.php:619
+#: includes/vendor/cmb2/example-functions.php:626
+#: includes/vendor/cmb2/example-functions.php:652
+#: includes/vendor/cmb2/example-functions.php:660
+#: includes/vendor/cmb2/example-functions.php:667
+#: includes/vendor/cmb2/example-functions.php:717
+#: includes/vendor/conditional/example-functions.php:174
+msgid "field description (optional)"
+msgstr "field description (optional)"
+
+#: includes/vendor/cmb2/example-functions.php:161
+msgid "Test Text Small"
+msgstr "Test Text Small"
+
+#: includes/vendor/cmb2/example-functions.php:174
+msgid "Test Text Medium"
+msgstr "Test Text Medium"
+
+#: includes/vendor/cmb2/example-functions.php:181
+msgid "Read-only Disabled Field"
+msgstr "Read-only Disabled Field"
+
+#: includes/vendor/cmb2/example-functions.php:185
+msgid "Hey there, I'm a read-only field"
+msgstr "Hey there, I'm a read-only field"
+
+#: includes/vendor/cmb2/example-functions.php:194
+msgid "Custom Rendered Field"
+msgstr "Custom Rendered Field"
+
+#: includes/vendor/cmb2/example-functions.php:202
+msgid "Website URL"
+msgstr "Website URL"
+
+#: includes/vendor/cmb2/example-functions.php:211
+msgid "Test Text Email"
+msgstr "Test Text Email"
+
+#: includes/vendor/cmb2/example-functions.php:219
+msgid "Test Time"
+msgstr "Test Time"
+
+#: includes/vendor/cmb2/example-functions.php:227
+#: includes/vendor/cmb2/example-functions.php:228
+msgid "Time zone"
+msgstr "Time zone"
+
+#: includes/vendor/cmb2/example-functions.php:234
+msgid "Test Date Picker"
+msgstr "Test Date Picker"
+
+#: includes/vendor/cmb2/example-functions.php:242
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr "Test Date Picker (UNIX timestamp)"
+
+#: includes/vendor/cmb2/example-functions.php:250
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr "Test Date/Time Picker Combo (UNIX timestamp)"
+
+#: includes/vendor/cmb2/example-functions.php:267
+msgid "Test Money"
+msgstr "Test Money"
+
+#: includes/vendor/cmb2/example-functions.php:276
+msgid "Test Color Picker"
+msgstr "Test Color Picker"
+
+#: includes/vendor/cmb2/example-functions.php:292
+msgid "Test Text Area"
+msgstr "Test Text Area"
+
+#: includes/vendor/cmb2/example-functions.php:299
+msgid "Test Text Area Small"
+msgstr "Test Text Area Small"
+
+#: includes/vendor/cmb2/example-functions.php:306
+msgid "Test Text Area for Code"
+msgstr "Test Text Area for Code"
+
+#: includes/vendor/cmb2/example-functions.php:324
+msgid "Test Title Weeeee"
+msgstr "Test Title Weeeee"
+
+#: includes/vendor/cmb2/example-functions.php:325
+msgid "This is a title description"
+msgstr "This is a title description"
+
+#: includes/vendor/cmb2/example-functions.php:331
+msgid "Test Select"
+msgstr "Test Select"
+
+#: includes/vendor/cmb2/example-functions.php:337
+#: includes/vendor/cmb2/example-functions.php:350
+#: includes/vendor/cmb2/example-functions.php:362
+msgid "Option One"
+msgstr "Option One"
+
+#: includes/vendor/cmb2/example-functions.php:338
+#: includes/vendor/cmb2/example-functions.php:351
+#: includes/vendor/cmb2/example-functions.php:363
+msgid "Option Two"
+msgstr "Option Two"
+
+#: includes/vendor/cmb2/example-functions.php:339
+#: includes/vendor/cmb2/example-functions.php:352
+#: includes/vendor/cmb2/example-functions.php:364
+msgid "Option Three"
+msgstr "Option Three"
+
+#: includes/vendor/cmb2/example-functions.php:344
+msgid "Test Radio inline"
+msgstr "Test Radio inline"
+
+#: includes/vendor/cmb2/example-functions.php:357
+msgid "Test Radio"
+msgstr "Test Radio"
+
+#: includes/vendor/cmb2/example-functions.php:369
+msgid "Test Taxonomy Radio"
+msgstr "Test Taxonomy Radio"
+
+#: includes/vendor/cmb2/example-functions.php:383
+msgid "Test Taxonomy Select"
+msgstr "Test Taxonomy Select"
+
+#: includes/vendor/cmb2/example-functions.php:391
+msgid "Test Taxonomy Multi Checkbox"
+msgstr "Test Taxonomy Multi Checkbox"
+
+#: includes/vendor/cmb2/example-functions.php:400
+msgid "Test Checkbox"
+msgstr "Test Checkbox"
+
+#: includes/vendor/cmb2/example-functions.php:407
+#: includes/vendor/conditional/example-functions.php:173
+msgid "Test Multi Checkbox"
+msgstr "Test Multi Checkbox"
+
+#: includes/vendor/cmb2/example-functions.php:413
+#: includes/vendor/conditional/example-functions.php:178
+msgid "Check One"
+msgstr "Check One"
+
+#: includes/vendor/cmb2/example-functions.php:414
+#: includes/vendor/conditional/example-functions.php:179
+msgid "Check Two"
+msgstr "Check Two"
+
+#: includes/vendor/cmb2/example-functions.php:415
+#: includes/vendor/conditional/example-functions.php:180
+msgid "Check Three"
+msgstr "Check Three"
+
+#: includes/vendor/cmb2/example-functions.php:421
+msgid "Test wysiwyg"
+msgstr "Test wysiwyg"
+
+#: includes/vendor/cmb2/example-functions.php:431
+msgid "Test Image"
+msgstr "Test Image"
+
+#: includes/vendor/cmb2/example-functions.php:432
+msgid "Upload an image or enter a URL."
+msgstr "Ανεβάστε μια εικόνα ή εισάγετε ένα URL."
+
+#: includes/vendor/cmb2/example-functions.php:438
+msgid "Multiple Files"
+msgstr "Πολλαπλά αρχεία"
+
+#: includes/vendor/cmb2/example-functions.php:439
+msgid "Upload or add multiple images/attachments."
+msgstr "Ανεβάστε ή προσθέστε πολλαπλές εικόνες/συνημμένα."
+
+#: includes/vendor/cmb2/example-functions.php:446
+msgid "oEmbed"
+msgstr "oEmbed"
+
+#. translators: %s: link to codex.wordpress.org/Embeds
+#: includes/vendor/cmb2/example-functions.php:449
+#, php-format
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+msgstr ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+
+#: includes/vendor/cmb2/example-functions.php:481
+msgid "About Page Metabox"
+msgstr "About Page Metabox"
+
+#: includes/vendor/cmb2/example-functions.php:511
+msgid "Repeating Field Group"
+msgstr "Repeating Field Group"
+
+#: includes/vendor/cmb2/example-functions.php:519
+msgid "Generates reusable form entries"
+msgstr "Generates reusable form entries"
+
+#: includes/vendor/cmb2/example-functions.php:521
+msgid "Entry {#}"
+msgstr "Entry {#}"
+
+#: includes/vendor/cmb2/example-functions.php:522
+msgid "Add Another Entry"
+msgstr "Add Another Entry"
+
+#: includes/vendor/cmb2/example-functions.php:523
+msgid "Remove Entry"
+msgstr "Remove Entry"
+
+#: includes/vendor/cmb2/example-functions.php:537
+msgid "Entry Title"
+msgstr "Entry Title"
+
+#: includes/vendor/cmb2/example-functions.php:544
+msgid "Description"
+msgstr "Description"
+
+#: includes/vendor/cmb2/example-functions.php:545
+msgid "Write a short description for this entry"
+msgstr "Write a short description for this entry"
+
+#: includes/vendor/cmb2/example-functions.php:551
+msgid "Entry Image"
+msgstr "Entry Image"
+
+#: includes/vendor/cmb2/example-functions.php:557
+msgid "Image Caption"
+msgstr "Image Caption"
+
+#: includes/vendor/cmb2/example-functions.php:575
+msgid "User Profile Metabox"
+msgstr "User Profile Metabox"
+
+#: includes/vendor/cmb2/example-functions.php:582
+#: includes/vendor/cmb2/example-functions.php:651
+msgid "Extra Info"
+msgstr "Extra Info"
+
+#: includes/vendor/cmb2/example-functions.php:590
+msgid "Avatar"
+msgstr "Avatar"
+
+#: includes/vendor/cmb2/example-functions.php:597
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: includes/vendor/cmb2/example-functions.php:604
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: includes/vendor/cmb2/example-functions.php:611
+msgid "Google+ URL"
+msgstr "Google+ URL"
+
+#: includes/vendor/cmb2/example-functions.php:618
+msgid "Linkedin URL"
+msgstr "Linkedin URL"
+
+#: includes/vendor/cmb2/example-functions.php:625
+msgid "User Field"
+msgstr "User Field"
+
+#: includes/vendor/cmb2/example-functions.php:644
+msgid "Category Metabox"
+msgstr "Category Metabox"
+
+#: includes/vendor/cmb2/example-functions.php:659
+msgid "Term Image"
+msgstr "Term Image"
+
+#: includes/vendor/cmb2/example-functions.php:666
+msgid "Arbitrary Term Field"
+msgstr "Arbitrary Term Field"
+
+#: includes/vendor/cmb2/example-functions.php:685
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: includes/vendor/cmb2/example-functions.php:716
+msgid "Site Background Color"
+msgstr "Site Background Color"
+
+#: includes/vendor/cmb2/example-functions.php:753
+#, php-format
+msgid "%s &mdash; Updated!"
+msgstr "%s &mdash; Updated!"
+
+#: includes/vendor/cmb2/example-functions.php:785
+msgid "REST Test Box"
+msgstr "REST Test Box"
+
+#: includes/vendor/cmb2/example-functions.php:794
+msgid "REST Test Text"
+msgstr "REST Test Text"
+
+#: includes/vendor/cmb2/example-functions.php:795
+msgid "Will show in the REST API for this box and for pages."
+msgstr "Will show in the REST API for this box and for pages."
+
+#: includes/vendor/cmb2/example-functions.php:801
+msgid "REST Editable Test Text"
+msgstr "REST Editable Test Text"
+
+#: includes/vendor/cmb2/example-functions.php:802
+msgid "Will show in REST API \"editable\" contexts only (`POST` requests)."
+msgstr "Will show in REST API \"editable\" contexts only (`POST` requests)."
+
+#: includes/vendor/cmb2/includes/CMB2.php:199
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr "Metabox configuration is required to have an ID parameter."
+
+#: includes/vendor/cmb2/includes/CMB2.php:618
+msgid "Click to toggle"
+msgstr "Click to toggle"
+
+#: includes/vendor/cmb2/includes/CMB2_Ajax.php:75
+msgid "Please Try Again"
+msgstr "Παρακαλώ προσπαθήστε ξανά"
+
+#: includes/vendor/cmb2/includes/CMB2_Ajax.php:181
+msgid "Remove Embed"
+msgstr "Διαγραφή εικόνας"
+
+#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
+#: includes/vendor/cmb2/includes/CMB2_Ajax.php:189
+#: includes/vendor/cmb2/includes/helper-functions.php:110
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr "No oEmbed Results Found for %1$s. View more info at %2$s."
+
+#: includes/vendor/cmb2/includes/CMB2_Base.php:423
+#, php-format
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%2$s\" "
+"parameter."
+msgstr ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%2$s\" "
+"parameter."
+
+#: includes/vendor/cmb2/includes/CMB2_Base.php:427
+#, php-format
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%2$s\" parameter."
+msgstr ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%2$s\" parameter."
+
+#: includes/vendor/cmb2/includes/CMB2_Base.php:457
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+
+#: includes/vendor/cmb2/includes/CMB2_Base.php:459
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+
+#: includes/vendor/cmb2/includes/CMB2_Base.php:492
+#: includes/vendor/cmb2/includes/CMB2_Hookup_Base.php:102
+#: includes/vendor/cmb2/includes/CMB2_Options.php:247
+#: includes/vendor/cmb2/includes/CMB2_Options_Hookup.php:369
+#: includes/vendor/cmb2/includes/types/CMB2_Type_Base.php:173
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr "Invalid %1$s property: %2$s"
+
+#: includes/vendor/cmb2/includes/CMB2_Base.php:510
+#: includes/vendor/cmb2/includes/types/CMB2_Type_Base.php:157
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr "Invalid %1$s method: %2$s"
+
+#: includes/vendor/cmb2/includes/CMB2_Field.php:1443
+msgid "Add Group"
+msgstr "Add Group"
+
+#: includes/vendor/cmb2/includes/CMB2_Field.php:1444
+msgid "Remove Group"
+msgstr "Διαγραφή"
+
+#: includes/vendor/cmb2/includes/CMB2_Field.php:1594
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr "Sorry, this field does not have a cmb_id specified."
+
+#: includes/vendor/cmb2/includes/CMB2_Field_Display.php:453
+#: includes/vendor/cmb2/includes/CMB2_JS.php:242
+#: includes/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:90
+msgid "File:"
+msgstr "Αρχείο:"
+
+#: includes/vendor/cmb2/includes/CMB2_Hookup_Base.php:44
+#, php-format
+msgid "%1$s should be implemented by the extended class."
+msgstr "%1$s should be implemented by the extended class."
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:177
+#: includes/vendor/cmb2/includes/CMB2_JS.php:222
+msgid "Clear"
+msgstr "Clear"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:178
+msgid "Default"
+msgstr "Default"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:179
+msgid "Select Color"
+msgstr "Επιλέξτε πελάτες"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:180
+msgid "Current Color"
+msgstr "Current Color"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:212
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr "mm/dd/yy"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:213
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr "Κυριακή, Δευτέρα, Τρίτη, Τετάρτη, Πέμπτη, Παρασκευή, Σάββατο"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:214
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr "Κυ, Δε, Τρ, Τε, Πε, Πα, Σα"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:215
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr "Κυρ, Δευ, Τρί, Τετ, Πεμ, Παρ, Σάβ"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:216
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+"Ιανουάριος, Φεβρουάριος, Μάρτιος, Απρίλιος, Μάιος, Ιούνιος, Ιούλιος, "
+"Αύγουστος, Σεπτέμβριος, Οκτώβριος, Νοέμβριος, Δεκέμβριος"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:217
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr "Ιαν, Φεβ, Μαρ, Απρ, Μάι, Ιούν, Ιούλ, Αύγ, Σεπ, Οκτ, Νοέ, Δεκ"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:218
+msgid "Next"
+msgstr "Επόμενο"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:219
+msgid "Prev"
+msgstr "Προηγούμενο"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:220
+msgid "Today"
+msgstr "Σήμερα"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:221
+#: includes/vendor/cmb2/includes/CMB2_JS.php:231
+msgid "Done"
+msgstr "Done"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:225
+msgid "Choose Time"
+msgstr "Επιλέξτε ώρα"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:226
+msgid "Time"
+msgstr "Ώρα"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:228
+msgid "Minute"
+msgstr "Λεπτό"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:229
+msgid "Second"
+msgstr "Δευτερόλεπτο"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:230
+msgid "Now"
+msgstr "Τώρα"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:232
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr "hh:mm TT"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:238
+msgid "Use this file"
+msgstr "Χρήση αυτού του αρχείου"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:239
+msgid "Use these files"
+msgstr "Χρήση αυτών των αρχείων"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:240
+#: includes/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:75
+msgid "Remove Image"
+msgstr "Διαγραφή εικόνας"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:241
+#: includes/vendor/cmb2/includes/CMB2_Types.php:408
+#: includes/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:95
+msgid "Remove"
+msgstr "Διαγραφή"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:243
+#: includes/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:93
+msgid "Download"
+msgstr "Λήψη"
+
+#: includes/vendor/cmb2/includes/CMB2_JS.php:244
+msgid "Select / Deselect All"
+msgstr "Επιλογή/Αποεπιλογή όλων"
+
+#: includes/vendor/cmb2/includes/CMB2_Options_Hookup.php:139
+msgid "Nothing to update."
+msgstr "Τίποτα για ενημέρωση."
+
+#: includes/vendor/cmb2/includes/CMB2_Options_Hookup.php:143
+msgid "Settings updated."
+msgstr "Οι ρυθμίσεις ενημερώθηκαν."
+
+#: includes/vendor/cmb2/includes/CMB2_Types.php:226
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr "Custom CMB2 field type classes must extend CMB2_Type_Base."
+
+#: includes/vendor/cmb2/includes/CMB2_Types.php:344
+msgid "Add Row"
+msgstr "Add Row"
+
+#: includes/vendor/cmb2/includes/CMB2_Types.php:408
+msgid "Remove Row"
+msgstr "Διαγραφή"
+
+#: includes/vendor/cmb2/includes/CMB2_hookup.php:188
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+
+#: includes/vendor/cmb2/includes/CMB2_hookup.php:192
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr "Term metaboxes configuration requires a \"taxonomies\" parameter."
+
+#: includes/vendor/cmb2/includes/CMB2_hookup.php:560
+#, php-format
+msgid "Toggle panel: %s"
+msgstr "Toggle panel: %s"
+
+#: includes/vendor/cmb2/includes/helper-functions.php:311
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: includes/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr "This box does not have read permissions."
+
+#: includes/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr "This box does not have write permissions."
+
+#: includes/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:300
+msgid ""
+"No box found by that id. A box needs to be registered with the "
+"\"show_in_rest\" parameter configured."
+msgstr ""
+"No box found by that id. A box needs to be registered with the "
+"\"show_in_rest\" parameter configured."
+
+#: includes/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr "A human-readable description of the object."
+
+#: includes/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr "The id for the object."
+
+#: includes/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr "The title for the object."
+
+#: includes/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr "Includes the registered fields for the box in the response."
+
+#: includes/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+
+#: includes/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr "Δεν βρέθηκαν παραγγελίες."
+
+#: includes/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid ""
+"Includes the box object which the fields are registered to in the response."
+msgstr ""
+"Includes the box object which the fields are registered to in the response."
+
+#: includes/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+
+#: includes/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: includes/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+
+#: includes/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+
+#: includes/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+
+#: includes/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: includes/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr "No field found by that id."
+
+#: includes/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr "Value Error for %s"
+
+#. translators: %s: register_routes()
+#: includes/vendor/cmb2/includes/shim/WP_REST_Controller.php:25
+#, php-format
+msgid "Method '%s' must be overridden."
+msgstr "Method '%s' must be overridden."
+
+#: includes/vendor/cmb2/includes/shim/WP_REST_Controller.php:35
+#: includes/vendor/cmb2/includes/shim/WP_REST_Controller.php:47
+#: includes/vendor/cmb2/includes/shim/WP_REST_Controller.php:59
+#: includes/vendor/cmb2/includes/shim/WP_REST_Controller.php:71
+#: includes/vendor/cmb2/includes/shim/WP_REST_Controller.php:83
+#: includes/vendor/cmb2/includes/shim/WP_REST_Controller.php:95
+#: includes/vendor/cmb2/includes/shim/WP_REST_Controller.php:107
+#: includes/vendor/cmb2/includes/shim/WP_REST_Controller.php:119
+#: includes/vendor/cmb2/includes/shim/WP_REST_Controller.php:131
+#: includes/vendor/cmb2/includes/shim/WP_REST_Controller.php:143
+#: includes/vendor/cmb2/includes/shim/WP_REST_Controller.php:155
+#: includes/vendor/cmb2/includes/shim/WP_REST_Controller.php:168
+#, php-format
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr "Method '%s' not implemented. Must be overridden in subclass."
+
+#: includes/vendor/cmb2/includes/shim/WP_REST_Controller.php:273
+msgid "Current page of the collection."
+msgstr "Current page of the collection."
+
+#: includes/vendor/cmb2/includes/shim/WP_REST_Controller.php:281
+msgid "Maximum number of items to be returned in result set."
+msgstr "Maximum number of items to be returned in result set."
+
+#: includes/vendor/cmb2/includes/shim/WP_REST_Controller.php:290
+msgid "Limit results to those matching a string."
+msgstr "Limit results to those matching a string."
+
+#: includes/vendor/cmb2/includes/shim/WP_REST_Controller.php:308
+msgid ""
+"Scope under which the request is made; determines fields present in response."
+msgstr ""
+"Πεδίο εφαρμογής στο οποίο υποβάλλεται το αίτημα. καθορίζει τα πεδία που "
+"υπάρχουν σε απόκριση."
+
+#: includes/vendor/cmb2/includes/types/CMB2_Type_Counter_Base.php:50
+msgid "Words left"
+msgstr ""
+
+#: includes/vendor/cmb2/includes/types/CMB2_Type_Counter_Base.php:51
+msgid "Words"
+msgstr ""
+
+#: includes/vendor/cmb2/includes/types/CMB2_Type_Counter_Base.php:56
+msgid "Characters left"
+msgstr ""
+
+#: includes/vendor/cmb2/includes/types/CMB2_Type_Counter_Base.php:57
+msgid "Characters"
+msgstr ""
+
+#: includes/vendor/cmb2/includes/types/CMB2_Type_Counter_Base.php:62
+msgid "Your text may be truncated."
+msgstr ""
+
+#: includes/vendor/cmb2/includes/types/CMB2_Type_File.php:76
+msgid "Add or Upload File"
+msgstr "Προσθήκη ή ανέβασμα αρχείου"
+
+#: includes/vendor/cmb2/includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr "Προσθήκη ή ανέβασμα αρχείων"
+
+#: includes/vendor/cmb2/includes/types/CMB2_Type_Taxonomy_Base.php:115
+msgid "No terms"
+msgstr "Χωρίς όρους"
+
+#: primer.php:98
+msgid ""
+"requires <a href=\"https://wordpress.org/plugins/woocommerce/\" "
+"target=\"_blank\">WooCommerce</a> need to be activated to work. Please "
+"install and activate <a href=\""
+msgstr ""
+"requires <a href=\"https://wordpress.org/plugins/woocommerce/\" "
+"target=\"_blank\">WooCommerce</a> need to be activated to work. Please "
+"install and activate <a href=\""
+
+#: primer.php:270
+msgid "AADE service is down"
+msgstr "Η υπηρεσία της ΑΑΔΕ είναι εκτός λειτουργίας"
+
+#: primer.php:270
+msgid "AADE service is down! Please de-activate the AADE VAT validation"
+msgstr ""
+"Η υπηρεσία της ΑΑΔΕ είναι εκτός λειτουργίας! Απενεργοποιήστε την επικύρωση "
+"ΦΠΑ ΑΑΔΕ"
+
+#: primer.php:373
+msgid "Product Types"
+msgstr "Τύποι προϊόντων"
+
+#: primer.php:376
+msgid "Products"
+msgstr "Προϊόντα"
+
+#: primer.php:377
+msgid "Services"
+msgstr "Υπηρεσίες"
+
+#: primer.php:378
+msgid "Goods"
+msgstr "Εμπορεύματα"
+
+#: views/admin_order_list.php:47
+msgid "Issue Receipts for selected orders"
+msgstr "Έκδοση παραστατικών  για τις επιλεγμένες παραγγελίες"
+
+#: views/admin_receipt_list.php:14
+msgid "Cancel Invoice"
+msgstr "Ακύρωση Παραστατικού"
+
+#: views/admin_receipt_list.php:18
+msgid "Send to customer"
+msgstr "Αποστολή στον πελάτη"
+
+#: views/admin_receipt_list.php:20 views/admin_receipt_list.php:22
+msgid "Download selected receipts"
+msgstr "Λήψη επιλεγμένων παραστατικών"
+
+#: views/admin_receipt_log_automation_list.php:39
+#: views/admin_receipt_log_list.php:43
+msgid "Download JSON"
+msgstr "Λήψη JSON"
+
+#: views/admin_receipt_log_automation_list.php:44
+#: views/admin_receipt_log_list.php:48
+msgid "Download HTML JSON"
+msgstr "Λήψη HTML JSON"
+
+#: views/admin_receipt_log_automation_list.php:46
+#: views/admin_receipt_log_list.php:50
+msgid "Download HTML"
+msgstr "Λήψη HTML"
+
+#. Plugin URI of the plugin/theme
+msgid "primer.gr/plugin/"
+msgstr "primer.gr/plugin/"
+
+#. Description of the plugin/theme
+msgid "Issue receipts and invoices with woocommerce."
+msgstr "Έκδοση αποδείξεων και τιμολογίων με το woocommerce."
+
+#. Author of the plugin/theme
+msgid "Primer Software"
+msgstr "Primer Software"
+
+#. Author URI of the plugin/theme
+msgid "primer.gr"
+msgstr "primer.gr"
+
+#~ msgid "ΔΟΥ: "
+#~ msgstr "ΔΟΥ: "
+
+#~ msgid "Your Primer MyData subscription ends in approximately "
+#~ msgstr "Η συνδρομή σας στο Primer MyData λήγει σε περίπου "
+
+#~ msgid ""
+#~ "User already exists with the specified email, please log in or choose "
+#~ "another email"
+#~ msgstr ""
+#~ "Υπάρχει χρήστης με το συγκεκριμένο email, παρακαλώ κάντε είσοδο ή "
+#~ "χρησιμοποιήστε κάποιο άλλο email"
+
+#~ msgid "Loss of Entity-Provider Interconnection."
+#~ msgstr "Απώλεια Διασύνδεσης Οντότητας - Παρόχου."
+
+#~ msgid "Loss of Provider-AADE Interconnection."
+#~ msgstr "Απώλεια Διασύνδεσης Παρόχου - ΑΑΔΕ."
+
+#~ msgid "Already running a conversion"
+#~ msgstr "Already running a conversion"
+
+#~ msgid "'Go to 'MyData settings' and click on button 'Resend last HTML'"
+#~ msgstr ""
+#~ "Πηγαίντε στο \"Ρυθμίσεις MyData\" και πατήστε το κουμπί \"Επανάληψη "
+#~ "αποστολής τελευταίου HTML αρχείου\""
+
+#, fuzzy
+#~| msgid " "
+#~ msgid "  "
+#~ msgstr " "
+
+#~ msgid ""
+#~ "Only the last 500 orders are displayed. If you want to see older orders "
+#~ "you can search with the following filters."
+#~ msgstr ""
+#~ "Εμφανίζονται μόνο οι τελευταίες 500 παραγγελίες. Αν θέλετε να δείτε "
+#~ "παλαιότερες παραγγελίες, μπορείτε να κάνετε αναζήτηση με τα παρακάτω "
+#~ "φίλτρα."
+
+#~ msgid ""
+#~ "Conversion failed! Because AADE return null uid,auth code,mark.Please "
+#~ "contact technical support."
+#~ msgstr ""
+#~ "Η μετατροπή απέτυχε! Γιατί η ΑΑΔΕ επέστρεψε μηδενικό uid, auth code, "
+#~ "mark. Παρακαλώ επικοινωνήστε με την τεχνική υποστήριξη."
+
+#~ msgid "HTML Response is empty"
+#~ msgstr "Δεν υπάρχει απόκριση HTML"
+
+#~ msgid "The order has already html"
+#~ msgstr "The order has already html"
+
+#~ msgid ""
+#~ "Conversion failed!Because AADE return null uid,auth code,mark.Please "
+#~ "contact technical support."
+#~ msgstr ""
+#~ "Η μετατροπή απέτυχε! Γιατί η ΑΑΔΕ επέστρεψε μηδενικό uid, auth code, "
+#~ "mark. Παρακαλώ επικοινωνήστε με την τεχνική υποστήριξη."
+
+#~ msgid "Conversion failed! Because AADE return null uid,auth code,mark."
+#~ msgstr ""
+#~ "Η μετατροπή απέτυχε! Γιατί η ΑΑΔΕ επέστρεψε μηδενικό uid, auth code, mark."
+
+#~ msgid "Cheatin&#8217; huh?"
+#~ msgstr "Cheatin&#8217; huh?"
+
+#~ msgid "Dismiss"
+#~ msgstr "Απόρριψη"
+
+#~ msgid "<strong>Fill in required fields!</strong>"
+#~ msgstr "<strong>Fill in required fields!</strong>"
+
+#, php-format
+#~ msgid ""
+#~ "The plugin \"Primer Additional Tax\" is out of date and not fully "
+#~ "compatible with this version of Primer. Please go to your %sPlugins "
+#~ "page%s and update it now."
+#~ msgstr ""
+#~ "The plugin \"Primer Additional Tax\" is out of date and not fully "
+#~ "compatible with this version of Primer. Please go to your %sPlugins "
+#~ "page%s and update it now."
+
+#, php-format
+#~ msgid "<strong>You have:</strong> Primer Additional Tax version %s."
+#~ msgstr "<strong>You have:</strong> Primer Additional Tax version %s."
+
+#~ msgid ""
+#~ "<strong>Required:</strong> Primer Additional Tax version 1.3.0 or newer"
+#~ msgstr ""
+#~ "<strong>Required:</strong> Primer Additional Tax version 1.3.0 or newer"
+
+#~ msgid ""
+#~ "Could not connect to aade for 48 hours. Please check your settings or "
+#~ "contact primer software."
+#~ msgstr ""
+#~ "Could not connect to aade for 48 hours. Please check your settings or "
+#~ "contact primer software."
+
+#~ msgid ""
+#~ "Order could not be converted because product value sum is not equal with "
+#~ "total value. A coupon discount was used and your edition does not support "
+#~ "payment fees. Please create a new order without coupon discount or go to "
+#~ "www.primer.gr to select another MyData plugin version."
+#~ msgstr ""
+#~ "Δεν ήταν δυνατή η μετατροπή της παραγγελίας επειδή το άθροισμα της αξίας "
+#~ "του προϊόντος δεν είναι ίσο με τη συνολική αξία. Χρησιμοποιήθηκε έκπτωση "
+#~ "κουπονιού και η έκδοσή σας δεν υποστηρίζει χρεώσεις πληρωμής. "
+#~ "Δημιουργήστε μια νέα παραγγελία χωρίς έκπτωση κουπονιού ή μεταβείτε στο "
+#~ "www.primer.gr για να επιλέξετε άλλη έκδοση προσθήκης MyData."
+
+#~ msgid "The order has a deleted product and cannot be issued."
+#~ msgstr "Η παραγγελία έχει διαγραμμένο προϊόν και δεν μπορεί να εκδοθεί."
+
+#~ msgid "Order Client name is required!"
+#~ msgstr "Απαιτείται όνομα πελάτη παραγγελίας!"
+
+#, fuzzy
+#~| msgid ""
+#~| "Please re-activate your product in order the plugin to be fully updated."
+#~| "After the activation please go to Settings->MyData Settings and press "
+#~| "save."
+#~ msgid ""
+#~ "Please update your permalinks in order the plugin to be fully updated."
+#~ "More information about the procedure you will find "
+#~ msgstr ""
+#~ "Παρακαλούμε ενεργοποιήστε εκ νέου το προϊόν σας για να ενημερωθεί πλήρως "
+#~ "το πρόσθετο. Μετά την ενεργοποίηση, μεταβείτε στις Ρυθμίσεις >MyData "
+#~ "Settings και πατήστε αποθήκευση."
+
+#~ msgid "Encrypt Password"
+#~ msgstr "Κρυπτογράφηση κωδικού"
+
+#~ msgid "VAT% is not corrected for this order."
+#~ msgstr "ΦΠΑ δεν είναι διορθωμένο για την παραγγελία."
+
+#~ msgid "Zero VAT number is not acceptable for greek orders"
+#~ msgstr "Μηδενικό ΦΠΑ δεν γίνεται αποδεκτό για ελληνικές παραγγελίες"
+
+#, fuzzy
+#~| msgid ""
+#~| "Cannot convert order because AADE is offline. Please try again later."
+#~ msgid "Unknown Error. Please try again later."
+#~ msgstr ""
+#~ "Δεν μπορεί να πραγματοποιηθεί η παραγγελία, γιατί η ΑΑΔΕ είναι εκτός "
+#~ "σύνδεσης. Παρακαλώ δοκιμάστε αργότερα."
+
+#~ msgid ""
+#~ "Cannot convert order because AADE is offline. Please try again later."
+#~ msgstr ""
+#~ "Δεν μπορεί να πραγματοποιηθεί η παραγγελία, γιατί η ΑΑΔΕ είναι εκτός "
+#~ "σύνδεσης. Παρακαλώ δοκιμάστε αργότερα."
+
+#~ msgid "Instructions"
+#~ msgstr "Οδηγίες"
+
+#~ msgid "Instruction"
+#~ msgstr "Οδηγίες"
+
+#~ msgid "Terms Of Use"
+#~ msgstr "Όροι χρήσης"
+
+#~ msgid "Τιμολόγιο Παροχής (Greek invoice for services)"
+#~ msgstr "Τιμολόγιο Παροχής Υπηρεσιών (Greek invoice for services)"
+
+#~ msgid "And payment state is "
+#~ msgstr "Και η κατάσταση πληρωμής είναι"
+
+#~ msgid "Licence and General Settings"
+#~ msgstr "Άδεια χρήσης και Γενικές Ρυθμίσεις"
+
+#~ msgid "Receipt status"
+#~ msgstr "Κατάσταση απόδειξης"
+
+#~ msgid "Deactivate License"
+#~ msgstr "Απενεργοποίηση Άδειας Χρήσης"
